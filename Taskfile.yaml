@@ -1,0 +1,10 @@
+version: "3"
+dotenv:
+  - .env
+tasks:
+  default:
+    cmds:
+      - pnpm run start -- ./src/entrypoints/main.ts
+  tsc:
+    cmds:
+      - pnpm exec tsc --noEmit

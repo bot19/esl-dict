@@ -1,0 +1,446 @@
+[
+  {
+    "id": "am",
+    "name": "Amharic",
+    "country": "Ethiopia",
+    "writingSystem": "ge_ez_script"
+  },
+  {
+    "id": "az",
+    "name": "Azerbaijani",
+    "country": "Azerbaijan",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "be",
+    "name": "Belarusian",
+    "country": "Belarus",
+    "writingSystem": "cyrillic_script"
+  },
+  {
+    "id": "bg",
+    "name": "Bulgarian",
+    "country": "Bulgaria",
+    "writingSystem": "cyrillic_script"
+  },
+  {
+    "id": "bs",
+    "name": "Bosnian",
+    "country": "Bosnia",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "ca",
+    "name": "Catalan",
+    "country": "Spain, Andorra",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "cs",
+    "name": "Czech",
+    "country": "Czech Republic",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "cy",
+    "name": "Welsh",
+    "country": "Wales",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "dz",
+    "name": "Dzongkha",
+    "country": "Bhutan",
+    "writingSystem": "tibetan_script"
+  },
+  {
+    "id": "el",
+    "name": "Greek",
+    "country": "Greece",
+    "writingSystem": "greek_script"
+  },
+  {
+    "id": "en",
+    "name": "English",
+    "country": "International",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "eo",
+    "name": "Esperanto",
+    "country": "International",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "et",
+    "name": "Estonian",
+    "country": "Estonia",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "eu",
+    "name": "Basque",
+    "country": "Spain",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "ga",
+    "name": "Irish",
+    "country": "Ireland",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "gl",
+    "name": "Galician",
+    "country": "Spain",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "he",
+    "name": "Hebrew",
+    "country": "Israel",
+    "writingSystem": "hebrew_script"
+  },
+  {
+    "id": "hr",
+    "name": "Croatian",
+    "country": "Croatia",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "hu",
+    "name": "Hungarian",
+    "country": "Hungary",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "hy",
+    "name": "Armenian",
+    "country": "Armenia",
+    "writingSystem": "armenian_script"
+  },
+  {
+    "id": "id",
+    "name": "Indonesian",
+    "country": "Indonesia",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "is",
+    "name": "Icelandic",
+    "country": "Iceland",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "jv",
+    "name": "Javanese",
+    "country": "Indonesia",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "ka",
+    "name": "Georgian",
+    "country": "Georgia",
+    "writingSystem": "georgian_script"
+  },
+  {
+    "id": "kk",
+    "name": "Kazakh",
+    "country": "Kazakhstan",
+    "writingSystem": "cyrillic_script"
+  },
+  {
+    "id": "km",
+    "name": "Khmer",
+    "country": "Cambodia",
+    "writingSystem": "khmer_script"
+  },
+  {
+    "id": "kn",
+    "name": "Kannada",
+    "country": "India",
+    "writingSystem": "kannada_script"
+  },
+  {
+    "id": "ku",
+    "name": "Kurdish",
+    "country": "Turkey",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "ky",
+    "name": "Kyrgyz",
+    "country": "Kyrgyzstan",
+    "writingSystem": "cyrillic_script"
+  },
+  {
+    "id": "lb",
+    "name": "Luxembourgish",
+    "country": "Luxembourg",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "lo",
+    "name": "Lao",
+    "country": "Laos",
+    "writingSystem": "lao_script"
+  },
+  {
+    "id": "lt",
+    "name": "Lithuanian",
+    "country": "Lithuania",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "lv",
+    "name": "Latvian",
+    "country": "Latvia",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "mg",
+    "name": "Malagasy",
+    "country": "Madagascar",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "mk",
+    "name": "Macedonian",
+    "country": "North Macedonia",
+    "writingSystem": "cyrillic_script"
+  },
+  {
+    "id": "ml",
+    "name": "Malayalam",
+    "country": "India",
+    "writingSystem": "Malayalam script"
+  },
+  {
+    "id": "mn",
+    "name": "Mongolian",
+    "country": "Mongolia",
+    "writingSystem": "cyrillic_script"
+  },
+  {
+    "id": "mr",
+    "name": "Marathi",
+    "country": "India",
+    "writingSystem": "devanagari_script"
+  },
+  {
+    "id": "mt",
+    "name": "Maltese",
+    "country": "Malta",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "my",
+    "name": "Burmese",
+    "country": "Myanmar",
+    "writingSystem": "burmese_script"
+  },
+  {
+    "id": "ne",
+    "name": "Nepali",
+    "country": "Nepal",
+    "writingSystem": "devanagari_script"
+  },
+  {
+    "id": "no",
+    "name": "Norwegian",
+    "country": "Norway",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "or",
+    "name": "Odia",
+    "country": "India",
+    "writingSystem": "odia_script"
+  },
+  {
+    "id": "pa",
+    "name": "Punjabi",
+    "country": "India",
+    "writingSystem": "gurmukhi_script"
+  },
+  {
+    "id": "pl",
+    "name": "Polish",
+    "country": "Poland",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "ps",
+    "name": "Pashto",
+    "country": "Afghanistan",
+    "writingSystem": "perso_arabic_script"
+  },
+  {
+    "id": "ro",
+    "name": "Romanian",
+    "country": "Romania",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "rw",
+    "name": "Kinyarwanda",
+    "country": "Rwanda",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "sd",
+    "name": "Sindhi",
+    "country": "Pakistan",
+    "writingSystem": "arabic_script"
+  },
+  {
+    "id": "si",
+    "name": "Sinhala",
+    "country": "Sri Lanka",
+    "writingSystem": "sinhala_script"
+  },
+  {
+    "id": "sk",
+    "name": "Slovak",
+    "country": "Slovakia",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "sl",
+    "name": "Slovenian",
+    "country": "Slovenia",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "sm",
+    "name": "Samoan",
+    "country": "Samoa",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "sn",
+    "name": "Shona",
+    "country": "Zimbabwe",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "so",
+    "name": "Somali",
+    "country": "Somalia",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "sq",
+    "name": "Albanian",
+    "country": "Albania",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "sr",
+    "name": "Serbian",
+    "country": "Serbia",
+    "writingSystem": "cyrillic_script"
+  },
+  {
+    "id": "st",
+    "name": "Sesotho",
+    "country": "Lesotho",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "su",
+    "name": "Sundanese",
+    "country": "Indonesia",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "sw",
+    "name": "Swahili",
+    "country": "Tanzania",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "te",
+    "name": "Telugu",
+    "country": "India",
+    "writingSystem": "telugu_script"
+  },
+  {
+    "id": "tg",
+    "name": "Tajik",
+    "country": "Tajikistan",
+    "writingSystem": "cyrillic_script"
+  },
+  {
+    "id": "ti",
+    "name": "Tigrinya",
+    "country": "Eritrea",
+    "writingSystem": "ge_ez_script"
+  },
+  {
+    "id": "tk",
+    "name": "Turkmen",
+    "country": "Turkmenistan",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "tn",
+    "name": "Tswana",
+    "country": "Botswana",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "tr",
+    "name": "Turkish",
+    "country": "Turkey",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "tt",
+    "name": "Tatar",
+    "country": "Russia",
+    "writingSystem": "cyrillic_script"
+  },
+  {
+    "id": "ug",
+    "name": "Uyghur",
+    "country": "China",
+    "writingSystem": "arabic_script"
+  },
+  {
+    "id": "ur",
+    "name": "Urdu",
+    "country": "Pakistan",
+    "writingSystem": "perso_arabic_script"
+  },
+  {
+    "id": "uz",
+    "name": "Uzbek",
+    "country": "Uzbekistan",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "vi",
+    "name": "Vietnamese",
+    "country": "Vietnam",
+    "writingSystem": "chu_quoc_nhu"
+  },
+  {
+    "id": "xh",
+    "name": "Xhosa",
+    "country": "South Africa",
+    "writingSystem": "~latin"
+  },
+  {
+    "id": "yi",
+    "name": "Yiddish",
+    "country": "International",
+    "writingSystem": "hebrew_script"
+  },
+  {
+    "id": "yo",
+    "name": "Yoruba",
+    "country": "Nigeria",
+    "writingSystem": "~latin"
+  }
+]
