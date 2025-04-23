@@ -1,0 +1,382 @@
+[
+  {
+    "word": "dryer",
+    "level": {
+      "cefr": "B1",
+      "rank": 4
+    },
+    "phonetics": {
+      "ipa": "/ˈdraɪər/",
+      "simplified": "drai-er"
+    },
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "example": "I put my clothes in the dryer after washing them.",
+        "level": {
+          "cefr": "B1",
+          "rank": 4
+        },
+        "tags": [
+          "appliance",
+          "laundry",
+          "household",
+          "drying",
+          "clothes",
+          "washing",
+          "home",
+          "fabric care",
+          "machine",
+          "convenience"
+        ],
+        "synonyms": [
+          "dryer",
+          "tumble dryer",
+          "clothes dryer",
+          "drying machine",
+          "drying appliance"
+        ],
+        "notes": {
+          "usage": "Commonly used in households for drying laundry.",
+          "grammar": "Usually used with 'the' (the dryer) or possessive forms (my dryer, your dryer).",
+          "context": "A machine used to remove moisture from clothes after washing.",
+          "pronunciation": "Sounds like 'dry-er'."
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "example": "She used a hair dryer to style her hair quickly.",
+        "level": {
+          "cefr": "B1",
+          "rank": 4
+        },
+        "tags": [
+          "hair dryer",
+          "appliance",
+          "styling tool",
+          "beauty",
+          "personal care",
+          "hair care",
+          "electronics",
+          "grooming",
+          "household item"
+        ],
+        "synonyms": [
+          "blow dryer",
+          "hair dryer",
+          "blow drier",
+          "hair drier"
+        ],
+        "notes": {
+          "usage": "Used to dry hair or other items by blowing hot air.",
+          "grammar": "Commonly used with 'a' or 'the' (e.g., 'a hair dryer').",
+          "context": "Often found in bathrooms or salons; used for personal grooming.",
+          "pronunciation": "Focus on the first syllable 'dry' and the second syllable 'er'."
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "example": "The mechanic used a special dryer to remove moisture from the car's engine.",
+        "level": {
+          "cefr": "B1",
+          "rank": 4
+        },
+        "tags": [
+          "dryer",
+          "mechanic",
+          "moisture removal",
+          "car maintenance",
+          "engine care",
+          "automotive tools",
+          "drying equipment"
+        ],
+        "synonyms": [
+          "dehydrator",
+          "desiccator",
+          "blower",
+          "heat gun",
+          "air blower",
+          "drying machine"
+        ],
+        "notes": {
+          "usage": "Used to describe a machine or device that removes moisture from something, such as clothes, hair, or mechanical parts.",
+          "grammar": "Commonly used with 'the' (the dryer) or possessive forms (my dryer, her dryer). Can be used in both singular and plural forms (dryer, dryers).",
+          "context": "Often found in households for drying clothes or in workshops for drying tools and equipment. Can also refer to hair dryers used for drying hair.",
+          "pronunciation": "The word is pronounced as 'dry-er', with emphasis on the first syllable."
+        }
+      }
+    ]
+  },
+  {
+    "word": "cat",
+    "level": {
+      "cefr": "A1",
+      "rank": 2
+    },
+    "phonetics": {
+      "ipa": "/kæt/",
+      "simplified": "kat"
+    },
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "example": "The cat sat on the windowsill.",
+        "level": {
+          "cefr": "A1",
+          "rank": 2
+        },
+        "tags": [
+          "animal",
+          "pet",
+          "feline",
+          "domestic",
+          "mammal",
+          "creature",
+          "companion",
+          "housecat",
+          "tabby",
+          "whiskers",
+          "paws",
+          "meow",
+          "playful",
+          "cute",
+          "furry"
+        ],
+        "synonyms": [
+          "feline",
+          "kitty",
+          "kitten",
+          "tomcat",
+          "puss",
+          "moggy",
+          "housecat"
+        ],
+        "notes": {
+          "usage": "Commonly used in everyday conversation and writing. Example: 'I have a cat.'",
+          "grammar": "Can be singular (cat) or plural (cats). Often used with articles like 'a' or 'the'.",
+          "context": "Used to refer to a small domesticated animal that is often kept as a pet. Cats are known for their playful behavior and ability to hunt mice and other small animals.",
+          "pronunciation": "The word is pronounced with a short 'a' sound, similar to 'bat'."
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "example": "He is a cool cat who knows everyone in town.",
+        "level": {
+          "cefr": "B1",
+          "rank": 2
+        },
+        "tags": [
+          "slang",
+          "informal",
+          "cool",
+          "social",
+          "personality",
+          "character",
+          "hip",
+          "trendy",
+          "urban"
+        ],
+        "synonyms": [
+          "dude",
+          "guy",
+          "fellow",
+          "man",
+          "character",
+          "individual",
+          "person"
+        ],
+        "notes": {
+          "usage": "Used informally to refer to a person, often someone who is stylish, confident, or well-liked.",
+          "grammar": "Can be used with adjectives (e.g., 'cool cat'). Often used in a positive or friendly context.",
+          "context": "Common in American slang, especially in music and youth culture. Can refer to someone who is part of a social scene or has a certain charisma.",
+          "pronunciation": "The word is pronounced as it is spelled."
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "example": "Please cat the fish before cooking it.",
+        "level": {
+          "cefr": "C2",
+          "rank": 3
+        },
+        "tags": [
+          "empty"
+        ],
+        "synonyms": [
+          "empty"
+        ],
+        "notes": {
+          "usage": "Commonly used in recipes or cooking instructions. Example: 'Please cat the vegetables before adding them to the pot.'",
+          "grammar": "Often followed by a noun (the food being cut). Can be used in different tenses: 'cat', 'catted', 'catting'.",
+          "context": "Used in cooking, 'cat' means to cut or slice food into smaller pieces.",
+          "pronunciation": "The word rhymes with 'hat'."
+        }
+      }
+    ]
+  },
+  {
+    "word": "security",
+    "level": {
+      "cefr": "B1",
+      "rank": 4
+    },
+    "phonetics": {
+      "ipa": "/sɪˈkjʊərɪti/",
+      "simplified": "sih-KYOOR-i-tee"
+    },
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "example": "The bank has high security to protect customers' money.",
+        "level": {
+          "cefr": "B1",
+          "rank": 5
+        },
+        "tags": [
+          "security",
+          "protection",
+          "safety",
+          "bank",
+          "finance",
+          "surveillance",
+          "risk management",
+          "safety measures",
+          "customer trust",
+          "asset protection"
+        ],
+        "synonyms": [
+          "safety",
+          "protection",
+          "defense",
+          "safeguard",
+          "assurance",
+          "stability",
+          "reliability",
+          "security measures",
+          "fortification",
+          "shield"
+        ],
+        "notes": {
+          "usage": "Used to describe measures taken to protect people, places, or things from danger or harm. Example: 'The security at the airport is very strict.'",
+          "grammar": "Often used with adjectives like 'high', 'tight', or 'national'. Can be plural (securities) when referring to financial instruments.",
+          "context": "Commonly used in discussions about safety, protection, and risk management. Relevant in contexts like banks, airports, and events.",
+          "pronunciation": "Focus on the first syllable: 'se-cur-i-ty'."
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "example": "He felt a sense of security when he was with his family.",
+        "level": {
+          "cefr": "B1",
+          "rank": 6
+        },
+        "tags": [
+          "safety",
+          "protection",
+          "stability",
+          "assurance",
+          "comfort",
+          "trust",
+          "peace of mind",
+          "defense",
+          "reliability",
+          "shelter"
+        ],
+        "synonyms": [
+          "safety",
+          "protection",
+          "assurance",
+          "stability",
+          "confidence",
+          "certainty",
+          "peace of mind",
+          "refuge",
+          "safeguard",
+          "defense"
+        ],
+        "notes": {
+          "usage": "Used to describe a state of safety or freedom from fear. Example: 'She found security in her job.'",
+          "grammar": "Often used with words like 'sense of,' 'feeling of,' or 'lack of.' Can be modified by adjectives like 'personal,' 'financial,' or 'national.'",
+          "context": "Security refers to the feeling of being safe and protected. It can be emotional, physical, or financial.",
+          "pronunciation": "Focus on the first syllable: 'se-cur-i-ty'."
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "example": "The company offered job security to its employees.",
+        "level": {
+          "cefr": "B1",
+          "rank": 4
+        },
+        "tags": [
+          "job security",
+          "employment",
+          "stability",
+          "assurance",
+          "protection",
+          "safety",
+          "workforce",
+          "benefits",
+          "human resources",
+          "organizational culture"
+        ],
+        "synonyms": [
+          "safety",
+          "protection",
+          "stability",
+          "assurance",
+          "certainty",
+          "confidence",
+          "safeguard",
+          "defense",
+          "reliability",
+          "trustworthiness"
+        ],
+        "notes": {
+          "usage": "Used to describe the state of being free from danger or threat, especially in terms of employment or financial stability.",
+          "grammar": "Often used with adjectives like 'job', 'financial', or 'national'. Can be used in both singular and plural forms (securities).",
+          "context": "Commonly used in discussions about employment, safety, and protection. Example: 'Job security is important for employee satisfaction.'",
+          "pronunciation": "Focus on the first syllable: 'se-cur-i-ty'."
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "example": "They installed a security system to prevent theft.",
+        "level": {
+          "cefr": "B1",
+          "rank": 5
+        },
+        "tags": [
+          "security",
+          "safety",
+          "protection",
+          "surveillance",
+          "alarm",
+          "system",
+          "theft prevention",
+          "monitoring",
+          "risk management",
+          "safety measures"
+        ],
+        "synonyms": [
+          "safety",
+          "protection",
+          "defense",
+          "safeguard",
+          "assurance",
+          "stability",
+          "reliability",
+          "security measures",
+          "fortification",
+          "shield"
+        ],
+        "notes": {
+          "usage": "Commonly used in contexts related to safety, protection, and surveillance.",
+          "grammar": "Often used with adjectives like 'national', 'personal', or 'cyber'. Can be plural (securities) when referring to financial instruments.",
+          "context": "Used to describe measures taken to protect against danger, damage, or loss.",
+          "pronunciation": "Focus on the first syllable: 'se-cur-i-ty'."
+        }
+      }
+    ]
+  }
+]
