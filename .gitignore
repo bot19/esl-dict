@@ -1,0 +1,6 @@
+.DS_Store
+logs.txt
+node_modules
+.keys/*
+static/temp/*
+.env
