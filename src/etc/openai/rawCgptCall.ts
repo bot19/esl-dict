@@ -4,6 +4,8 @@ import OpenAI from "openai";
 import { ChatCompletionSystemMessageParam } from "openai/resources/index.mjs";
 import { ProviderId } from "@/etc/types";
 import { models } from "@/etc/models";
+import dotenv from "dotenv";
+dotenv.config();
 
 const clients: Record<ProviderId, OpenAI> = {
   openai: new OpenAI({ apiKey: process.env.OPENAI_API_KEY }),
