@@ -9,6 +9,9 @@ import { parseInt } from "lodash";
 import path from "path";
 import { writeFileSync } from "fs";
 
+// controls
+const number = 1;
+const words = ["dryer", "light", "break"];
 interface WordMeaning {
   examplePhrase: string;
   partOfSpeech: string;
@@ -161,7 +164,6 @@ const getSimplifiedPhonetic = async (ctx: Context, wordDescription: string) => {
 const program = new Command();
 program.name("wordlab").version("1.0.0");
 clearLogs();
-const words = ["dryer", "cat", "security"];
 
 program.action(async () => {
   const ctx = new Context({});
@@ -208,7 +210,7 @@ program.action(async () => {
       results.push(schemas.entry.parse(entry));
     }
 
-    const filePath = path.join(__dirname, "..", "result.json");
+    const filePath = path.join(__dirname, "..", `result-${number}.json`);
     writeFileSync(filePath, JSON.stringify(results, null, 2));
   });
 });
