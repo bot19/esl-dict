@@ -63,7 +63,7 @@ export const ccgpt = async <S extends ZodType>(
       ...schemaProps,
       ...props,
     },
-  });
+  }) as { data: string }; // Add type assertion here
 
   try {
     return parse(schema, Boolean(plainText), data, {
@@ -71,7 +71,7 @@ export const ccgpt = async <S extends ZodType>(
       key,
       name,
       prompt,
-    });
+    }) as z.infer<S>; // Add type assertion here
   } catch (err) {
     if (err instanceof ZodError) {
       throw new CgptError(err.issues, data);
