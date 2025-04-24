@@ -8,10 +8,15 @@ import * as schemas from "@/schemas";
 import { parseInt } from "lodash";
 import path from "path";
 import { writeFileSync } from "fs";
+import { wordsList } from "@/input/wordList";
 
 // controls
-const number = 4;
-const words = ["dryer", "light", "break"];
+const wordLength = 3;
+const wordsDone = ["dryer", "light", "break"];
+const words: string[] =
+  wordsList
+    .find((words) => words.wordLength === wordLength)
+    ?.words.slice(0, 50) || [];
 
 interface WordMeaning {
   examplePhrase: string;
@@ -87,7 +92,7 @@ const getDefinition = async (ctx: Context, wordDescription: string) => {
 
 // new
 const getWordFamily = async (ctx: Context, word: string) => {
-  const schema = z.string().regex(/^[a-z\-, ]+$/);
+  const schema = z.string().regex(/^[a-z\-, ]+$/i);
 
   const cefrLevelOptions: CcgptOptions = {
     ctx,
@@ -123,7 +128,7 @@ const getHelpfulNote = async (ctx: Context, wordDescription: string) => {
 };
 
 const getSynonyms = async (ctx: Context, wordDescription: string) => {
-  const schema = z.string().regex(/^[a-z\-, ]+$/);
+  const schema = z.string().regex(/^[a-z\-, ]+$/i);
 
   const cefrLevelOptions: CcgptOptions = {
     ctx,
@@ -163,6 +168,11 @@ clearLogs();
 program.action(async () => {
   const ctx = new Context({});
 
+  if (words.length === 0) return console.log("no words to process");
+
+  // init
+  console.log("processing words:", words);
+
   await Context.start(ctx, async () => {
     const results: Entry[] = [];
 
@@ -201,7 +211,7 @@ program.action(async () => {
       results.push(schemas.entry.parse(entry));
     }
 
-    const filePath = path.join(__dirname, "..", `result-${number}.json`);
+    const filePath = path.join(__dirname, "..", `words-${wordLength}.json`);
     writeFileSync(filePath, JSON.stringify(results, null, 2));
   });
 });
@@ -215,6 +225,4 @@ program.parse();
  * 04 - add wordFamily + helpful note for each word sense
  *
  * NOTE done. Time to mass produce.
- *
- * 00 - add word family
  */
