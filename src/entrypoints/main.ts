@@ -3,14 +3,14 @@ import { Context } from "@/etc/Context";
 import { ccgpt, CcgptOptions } from "@/etc/openai";
 import { z } from "zod";
 import { clearLogs } from "@/etc/clearLogs";
-import { Entry, Meaning, Notes } from "@/schemas";
+import { Entry, Meaning } from "@/schemas";
 import * as schemas from "@/schemas";
 import { parseInt } from "lodash";
 import path from "path";
 import { writeFileSync } from "fs";
 
 // controls
-const number = 3;
+const number = 4;
 const words = ["dryer", "light", "break"];
 
 interface WordMeaning {
@@ -20,24 +20,6 @@ interface WordMeaning {
 
 const getWordDescription = (word: string, sense: WordMeaning) => {
   return `${word} (${sense.partOfSpeech}) as in "${sense.examplePhrase}"`;
-};
-
-const getCefr = async (ctx: Context, wordDescription: string) => {
-  const schema = z.string().regex(/^[A-Z0-9]{1,3}$/);
-  const prompt = `Give me a CEFR ranking for the word ${wordDescription}, will be used in a ESL dictionary. Just give me a value, no explanation.`;
-
-  const cefrLevelOptions: CcgptOptions = {
-    ctx,
-    maxTokens: 5,
-    prompt,
-    plainText: true,
-    schema,
-    model: "gpt-4o-mini",
-  };
-
-  return schema.parse(await ccgpt("cefr", cefrLevelOptions)) as z.infer<
-    typeof schema
-  >;
 };
 
 // updated
@@ -103,16 +85,41 @@ const getDefinition = async (ctx: Context, wordDescription: string) => {
   ) as z.infer<typeof schema>;
 };
 
-const getNotes = async (ctx: Context, wordDescription: string) => {
+// new
+const getWordFamily = async (ctx: Context, word: string) => {
+  const schema = z.string().regex(/^[a-z\-, ]+$/);
+
   const cefrLevelOptions: CcgptOptions = {
     ctx,
-    maxTokens: 800,
-    prompt: `Give me notes about the word ${wordDescription} as you would find in an ESL dictionary. Keep it brief and easy for English learners to understand. No phonetics or notation, only written notes. Don't mention the part of speech, assume that's included elsewhere.`,
-    schema: schemas.notes,
+    maxTokens: 100,
+    prompt: `for the word: ${word}; provide an optional list of related words or forms (Word Families or Derivatives). Don't include the word itself (${word}). Respond with a comma separated list of words or empty if there are no related words.`,
+    schema,
+    plainText: true,
     model: "gpt-4o-mini",
   };
 
-  return schemas.notes.parse(await ccgpt("notes", cefrLevelOptions)) as Notes;
+  const raw = schema.parse(
+    await ccgpt("word-family", cefrLevelOptions)
+  ) as string;
+  return raw.split(",").map((w) => w.trim().toLowerCase());
+};
+
+// new
+const getHelpfulNote = async (ctx: Context, wordDescription: string) => {
+  const schema = z.string();
+
+  const cefrLevelOptions: CcgptOptions = {
+    ctx,
+    maxTokens: 100,
+    prompt: `For the word: ${wordDescription}, give me a (1) clear, English-UK ESL-friendly helpful note. Could be related to: usage, grammar, context or pronunciation. Just the note part, don't need to include the word and part of speech again. Keep it simple and easy to understand.`,
+    plainText: true,
+    schema,
+    model: "gpt-4o-mini",
+  };
+
+  return schema.parse(await ccgpt("helpful-note", cefrLevelOptions)) as z.infer<
+    typeof schema
+  >;
 };
 
 const getSynonyms = async (ctx: Context, wordDescription: string) => {
@@ -120,7 +127,7 @@ const getSynonyms = async (ctx: Context, wordDescription: string) => {
 
   const cefrLevelOptions: CcgptOptions = {
     ctx,
-    maxTokens: 800,
+    maxTokens: 500,
     prompt: `Give me a list of synonyms for the word ${wordDescription}. Respond with a comma separated list of words or empty if there are no synonyms.`,
     schema,
     plainText: true,
@@ -129,39 +136,6 @@ const getSynonyms = async (ctx: Context, wordDescription: string) => {
 
   const raw = schema.parse(await ccgpt("synonyms", cefrLevelOptions)) as string;
   return raw.split(",").map((w) => w.trim().toLowerCase());
-};
-
-const getTags = async (ctx: Context, wordDescription: string) => {
-  const schema = z.string().regex(/^[a-z\-, ]+$/);
-
-  const cefrLevelOptions: CcgptOptions = {
-    ctx,
-    maxTokens: 800,
-    prompt: `Give me a list of tags for the word ${wordDescription}. Respond with a comma separated list of tags or empty if there are no tags.`,
-    schema,
-    plainText: true,
-    model: "gpt-4o-mini",
-  };
-
-  const raw = schema.parse(await ccgpt("tags", cefrLevelOptions)) as string;
-  return raw.split(",").map((w) => w.trim().toLowerCase());
-};
-
-const getIpa = async (ctx: Context, wordDescription: string) => {
-  const schema = z.string();
-
-  const cefrLevelOptions: CcgptOptions = {
-    ctx,
-    maxTokens: 20,
-    prompt: `Give me the IPA notation for the word ${wordDescription}. Respond with only the IPA word, no explanation.`,
-    plainText: true,
-    schema,
-    model: "gpt-4o-mini",
-  };
-
-  return schema.parse(await ccgpt("ipa", cefrLevelOptions)) as z.infer<
-    typeof schema
-  >;
 };
 
 // updated
@@ -205,13 +179,8 @@ program.action(async () => {
           partOfSpeech: simpleMeaning.partOfSpeech,
           example: simpleMeaning.examplePhrase,
           definition: await getDefinition(ctx, wordDescription),
-          // level: {
-          //   cefr: await getCefr(ctx, wordDescription),
-          //   rank: await getRank(ctx, wordDescription),
-          // },
-          // notes: await getNotes(ctx, wordDescription),
+          note: await getHelpfulNote(ctx, wordDescription),
           synonyms: await getSynonyms(ctx, wordDescription),
-          // tags: await getTags(ctx, wordDescription),
         };
 
         meanings.push(schemas.meaning.parse(meaning));
@@ -220,14 +189,13 @@ program.action(async () => {
       const entry: Entry = {
         word,
         level: {
-          // cefr: await getCefr(ctx, word),
           rank: await getRank(ctx, word),
         },
-        meanings,
         phonetics: {
-          // ipa: await getIpa(ctx, word),
           simplified: await getSimplifiedPhonetic(ctx, word),
         },
+        wordFamily: await getWordFamily(ctx, word),
+        meanings,
       };
 
       results.push(schemas.entry.parse(entry));
@@ -244,6 +212,9 @@ program.parse();
  * 01 - update with my testing words
  * 02 - need word definition, update instructions, cut fields
  * 03 - remove **Dryer (noun)**: A machine... from description
+ * 04 - add wordFamily + helpful note for each word sense
+ *
+ * NOTE done. Time to mass produce.
  *
  * 00 - add word family
  */

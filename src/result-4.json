@@ -1,0 +1,251 @@
+[
+  {
+    "word": "dryer",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "drai-er"
+    },
+    "wordFamily": [
+      "dry",
+      "drying",
+      "dried",
+      "dryness",
+      "dryer vent",
+      "dryly",
+      "dryable"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A machine that uses heat and air to remove moisture from clothes after washing them.",
+        "example": "I put my clothes in the tumble dryer to dry them quickly.",
+        "note": "A tumble dryer is a machine used to dry wet clothes quickly. In British English, \"dryer\" often refers specifically to this appliance. When using it in a sentence, remember to use \"in\" when talking about putting clothes inside: \"I put my clothes in the dryer.\"",
+        "synonyms": [
+          "tumble dryer",
+          "clothes dryer",
+          "drying machine",
+          "laundry dryer",
+          "spin dryer"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A machine that blows warm air to dry hair after washing it.",
+        "example": "After washing my hair, I used a hair dryer to style it.",
+        "note": "A hair dryer is an electrical device used to blow warm air to dry and style hair. When using it, hold it at least 15-20 cm away from your hair to avoid heat damage.",
+        "synonyms": [
+          "blow dryer",
+          "hair dryer",
+          "blow drier",
+          "hair drier"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A machine that blows warm air to dry your hands or hair.",
+        "example": "The air dryer in the bathroom is broken, so I had to use paper towels.",
+        "note": "A dryer is a machine that removes moisture from clothes or hands. In British English, \"hand dryer\" is often used to refer specifically to the device in bathrooms. Remember to use \"the\" before \"dryer\" when talking about a specific one, like \"the air dryer.\"",
+        "synonyms": [
+          "dehydrator",
+          "blower",
+          "air blower",
+          "hand dryer",
+          "ventilator"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "light",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "lyt"
+    },
+    "wordFamily": [
+      "lighting",
+      "lighten",
+      "lighter",
+      "lightness",
+      "lightweight",
+      "enlighten",
+      "enlightenment",
+      "lighted",
+      "lighthearted",
+      "lightbulb"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The brightness that comes from a source, such as the sun or a lamp, which makes things visible.",
+        "example": "The light from the sun brightens the room.",
+        "note": "When using \"light\" as a noun, remember that it can refer to both natural light (like sunlight) and artificial light (like from a lamp). It is often used to describe brightness or illumination in a space. For example, you might say, \"The room is filled with light,\" to indicate that it is bright.",
+        "synonyms": [
+          "illumination",
+          "brightness",
+          "radiance",
+          "glow",
+          "luminescence",
+          "shine",
+          "brilliance",
+          "daylight",
+          "beam",
+          "glare",
+          "luminosity",
+          "flash",
+          "sparkle",
+          "twinkle"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Not heavy; easy to carry or wear.",
+        "example": "She wore a light jacket because it was warm outside.",
+        "note": "When using \"light\" as an adjective, it describes something that is not heavy or has a low weight. It can also refer to a gentle or soft quality, such as in \"light colours\" or \"light fabric.\" Remember to use it to indicate that something is easy to carry or wear, especially in warm weather.",
+        "synonyms": [
+          "lightweight",
+          "airy",
+          "thin",
+          "delicate",
+          "subtle",
+          "gentle",
+          "soft",
+          "mild"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make something start to burn or to provide brightness.",
+        "example": "Please light the candle for the dinner.",
+        "note": "When using \"light\" as a verb, it means to start a fire or to make something bright. Remember to use it with an object, like \"light the candle\" or \"light the fire.\" In the past tense, it becomes \"lit,\" so you would say, \"He lit the candle.\" Make sure to pronounce it as /laɪt/ when you say it.",
+        "synonyms": [
+          "ignite",
+          "kindle",
+          "illuminate",
+          "brighten",
+          "fire",
+          "flare",
+          "spark",
+          "set alight",
+          "turn on",
+          "light up"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "break",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "brayk"
+    },
+    "wordFamily": [
+      "breaking",
+      "broke",
+      "broken",
+      "breaker",
+      "breakage",
+      "breakable",
+      "unbreakable",
+      "breakaway",
+      "breakneck",
+      "break-in",
+      "breakthrough",
+      "break-up"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To separate something into smaller parts by using force or pressure.",
+        "example": "Please break the chocolate into small pieces.",
+        "note": "When using \"break\" in the context of dividing something into smaller parts, it often requires an object (the thing you are breaking). For example, you can say \"break the chocolate\" or \"break the bread.\" Remember to use the correct form of the verb depending on the tense: \"break\" (present), \"broke\" (past), and \"broken\" (past participle).",
+        "synonyms": [
+          "fracture",
+          "shatter",
+          "snap",
+          "split",
+          "crack",
+          "cleave",
+          "divide",
+          "separate",
+          "rupture",
+          "disintegrate"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To tell someone something important or difficult in a careful way.",
+        "example": "He decided to break the news gently.",
+        "note": "When using \"break\" in the context of sharing news, it often means to reveal something that may be difficult or sensitive. It's common to say \"break the news\" when informing someone about important information, especially if it might be upsetting. Remember to use \"gently\" or \"softly\" to indicate that you are being considerate of the other person's feelings.",
+        "synonyms": [
+          "announce",
+          "reveal",
+          "disclose",
+          "communicate",
+          "share",
+          "inform",
+          "tell",
+          "impart",
+          "convey"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To stop doing something for a short time, usually to rest or eat.",
+        "example": "The children love to break for lunch at noon.",
+        "note": "When using \"break\" in the context of taking a pause, it often refers to a short period of rest or interruption in an activity. For example, \"break for lunch\" means to stop what you are doing to eat lunch. Remember to use \"break\" with a preposition like \"for\" to indicate what you are pausing for.",
+        "synonyms": [
+          "pause",
+          "stop",
+          "halt",
+          "recess",
+          "interrupt",
+          "take a break",
+          "take a pause",
+          "take a breather"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A short period of time when someone stops working or studying to rest or relax.",
+        "example": "She took a short break from studying.",
+        "note": "A \"break\" is a short period of time when you stop doing something to rest or relax. It is often used in contexts like studying, working, or exercising. Remember to use \"break\" when talking about a pause, and not to confuse it with \"brake,\" which refers to slowing down a vehicle.",
+        "synonyms": [
+          "pause",
+          "rest",
+          "interval",
+          "intermission",
+          "recess",
+          "hiatus",
+          "breather",
+          "downtime",
+          "respite",
+          "lull"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A period of time when something stops or is interrupted, often allowing for a change or improvement.",
+        "example": "There was a break in the clouds after the rain.",
+        "note": "A \"break\" can refer to a pause or interruption in something, like a change in the weather or a rest from work. In sentences, it is often used to describe a moment when something stops or changes. For example, you might say, \"We had a break for lunch,\" meaning there was a pause in the activity for eating. Remember to use \"break\" in contexts where something is temporarily stopped or changed.",
+        "synonyms": [
+          "gap",
+          "opening",
+          "pause",
+          "interval",
+          "respite",
+          "intermission",
+          "breach",
+          "rupture",
+          "fissure",
+          "crack"
+        ]
+      }
+    ]
+  }
+]
