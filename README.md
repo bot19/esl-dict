@@ -21,4 +21,4 @@ Create a ESL dictionary using an alternative granular approach to target *-mini 
 
 ## 📝 Notes
 
-- building on top of [felixsebastian](https://github.com/felixsebastian)'s work. Thx.
+- building on top of [felixsebastian](https://github.com/felixsebastian/esl-dict)'s work. Thx.
