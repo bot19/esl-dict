@@ -10,8 +10,9 @@ import path from "path";
 import { writeFileSync } from "fs";
 
 // controls
-const number = 1;
+const number = 3;
 const words = ["dryer", "light", "break"];
+
 interface WordMeaning {
   examplePhrase: string;
   partOfSpeech: string;
@@ -39,13 +40,14 @@ const getCefr = async (ctx: Context, wordDescription: string) => {
   >;
 };
 
+// updated
 const getRank = async (ctx: Context, wordDescription: string) => {
   const schema = z.string().regex(/^[0-9]{1,2}$/);
 
   const cefrLevelOptions: CcgptOptions = {
     ctx,
     maxTokens: 5,
-    prompt: `Give me a difficulty ranking (0-10) for the word ${wordDescription}, will be used in a ESL dictionary. Just give me a value, no explanation.`,
+    prompt: `for the word ${wordDescription}, give a rank of importance for ESL learners, 1 = most essential, 10 = least essential. Just give me a value, no explanation.`,
     plainText: true,
     schema,
     model: "gpt-4o-mini",
@@ -71,16 +73,34 @@ const getMeanings = async (ctx: Context, word: string) => {
   const cefrLevelOptions: CcgptOptions = {
     ctx,
     maxTokens: 500,
-    prompt: `Give me a list of common meanings for the word ${word} as you would find in an ESL dictionary. Use a short example phrase that disambiguates each entry. Only include very common, straightforward usages of the word. Omit less common slangs and such. 1 entry for each meaning of the word. Be conservative, a single entry is fine.`,
+    prompt: `Give me a list of common meanings for the word ${word} as you would find in an English-UK ESL dictionary. Use a short example phrase that disambiguates each entry. Only include very common, straightforward usages of the word. Omit less common slangs and such. 1 entry for each meaning of the word. Be conservative, a single entry is fine.`,
     schema,
     model: "gpt-4o-mini",
   };
 
   const raw = schema.parse(
-    await ccgpt("meanings", cefrLevelOptions),
+    await ccgpt("meanings", cefrLevelOptions)
   ) as z.infer<typeof schema>;
 
   return raw.meanings;
+};
+
+// new
+const getDefinition = async (ctx: Context, wordDescription: string) => {
+  const schema = z.string();
+
+  const cefrLevelOptions: CcgptOptions = {
+    ctx,
+    maxTokens: 100,
+    prompt: `For the word: ${wordDescription}, give me a clear, English-UK ESL-friendly definition. Just the definition part, don't need to include the word and part of speech again. Keep it simple and easy to understand.`,
+    plainText: true,
+    schema,
+    model: "gpt-4o-mini",
+  };
+
+  return schema.parse(
+    await ccgpt("sense-definition", cefrLevelOptions)
+  ) as z.infer<typeof schema>;
 };
 
 const getNotes = async (ctx: Context, wordDescription: string) => {
@@ -144,20 +164,21 @@ const getIpa = async (ctx: Context, wordDescription: string) => {
   >;
 };
 
+// updated
 const getSimplifiedPhonetic = async (ctx: Context, wordDescription: string) => {
   const schema = z.string();
 
   const cefrLevelOptions: CcgptOptions = {
     ctx,
     maxTokens: 20,
-    prompt: `Give me the simplified phonetic (normal alphabet not IPA) notation for the word ${wordDescription}. Respond with only the phonetic word, no explanation.`,
+    prompt: `For ${wordDescription}: give an easy, phonetic-style rendering that mimics how native English speakers might 'sound it out' using regular alphabet letters—especially useful for learners unfamiliar with IPA. Respond with only the phonetic word, no explanation.`,
     plainText: true,
     schema,
     model: "gpt-4o-mini",
   };
 
   return schema.parse(
-    await ccgpt("simplified-phonetic", cefrLevelOptions),
+    await ccgpt("simplified-phonetic", cefrLevelOptions)
   ) as z.infer<typeof schema>;
 };
 
@@ -172,6 +193,7 @@ program.action(async () => {
     const results: Entry[] = [];
 
     for (const word of words) {
+      // get meanings/senses of word (1-many)
       const simpleMeanings = await getMeanings(ctx, word);
 
       const meanings: Meaning[] = [];
@@ -182,13 +204,14 @@ program.action(async () => {
         const meaning: Meaning = {
           partOfSpeech: simpleMeaning.partOfSpeech,
           example: simpleMeaning.examplePhrase,
-          level: {
-            cefr: await getCefr(ctx, wordDescription),
-            rank: await getRank(ctx, wordDescription),
-          },
-          notes: await getNotes(ctx, wordDescription),
+          definition: await getDefinition(ctx, wordDescription),
+          // level: {
+          //   cefr: await getCefr(ctx, wordDescription),
+          //   rank: await getRank(ctx, wordDescription),
+          // },
+          // notes: await getNotes(ctx, wordDescription),
           synonyms: await getSynonyms(ctx, wordDescription),
-          tags: await getTags(ctx, wordDescription),
+          // tags: await getTags(ctx, wordDescription),
         };
 
         meanings.push(schemas.meaning.parse(meaning));
@@ -197,12 +220,12 @@ program.action(async () => {
       const entry: Entry = {
         word,
         level: {
-          cefr: await getCefr(ctx, word),
+          // cefr: await getCefr(ctx, word),
           rank: await getRank(ctx, word),
         },
         meanings,
         phonetics: {
-          ipa: await getIpa(ctx, word),
+          // ipa: await getIpa(ctx, word),
           simplified: await getSimplifiedPhonetic(ctx, word),
         },
       };
@@ -216,3 +239,11 @@ program.action(async () => {
 });
 
 program.parse();
+
+/**
+ * 01 - update with my testing words
+ * 02 - need word definition, update instructions, cut fields
+ * 03 - remove **Dryer (noun)**: A machine... from description
+ *
+ * 00 - add word family
+ */

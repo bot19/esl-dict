@@ -1,0 +1,205 @@
+[
+  {
+    "word": "dryer",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "drai-er"
+    },
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "**Dryer (noun)**: A machine used to remove moisture from clothes and other fabrics by blowing hot air over them. For example, you might use a dryer after washing your clothes to make them dry quickly.",
+        "example": "I put my clothes in the tumble dryer to dry them quickly.",
+        "synonyms": [
+          "tumble dryer",
+          "clothes dryer",
+          "drying machine",
+          "laundry dryer",
+          "spin dryer"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "**Dryer (noun)**: A device used to remove moisture from something, especially hair. For example, a hair dryer blows warm air to help dry and style wet hair after washing.",
+        "example": "After washing my hair, I used a hair dryer to style it.",
+        "synonyms": [
+          "blow dryer",
+          "hair dryer",
+          "blow drier",
+          "hair drier"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "**Dryer (noun)**: A machine or device that removes moisture from something, often used for drying clothes or hands. For example, an air dryer is a device that blows warm air to dry your hands after washing them.",
+        "example": "The air dryer in the bathroom is broken, so I had to use paper towels.",
+        "synonyms": [
+          "dehydrator",
+          "blower",
+          "air blower",
+          "hand dryer",
+          "ventilator"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "light",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "lyt"
+    },
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "**Light (noun)**: A source of brightness that allows us to see things. For example, sunlight or the glow from a lamp. It can also refer to the natural agent that stimulates sight and makes things visible.",
+        "example": "The light from the sun brightens the room.",
+        "synonyms": [
+          "illumination",
+          "brightness",
+          "radiance",
+          "glow",
+          "luminescence",
+          "shine",
+          "brilliance",
+          "daylight",
+          "beam",
+          "glare",
+          "luminosity",
+          "flash",
+          "sparkle",
+          "twinkle"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "**Light (adjective)**: Not heavy; easy to carry or wear. For example, a light jacket is thin and not very warm, making it suitable for mild weather.",
+        "example": "She wore a light jacket because it was warm outside.",
+        "synonyms": [
+          "lightweight",
+          "airy",
+          "thin",
+          "delicate",
+          "subtle",
+          "gentle",
+          "soft",
+          "mild"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "**Light (verb)**: To make something start to burn or to provide illumination. For example, when you light a candle, you use a match or a lighter to start the flame so that it can shine and give off light.",
+        "example": "Please light the candle for the dinner.",
+        "synonyms": [
+          "ignite",
+          "kindle",
+          "illuminate",
+          "brighten",
+          "fire",
+          "flare",
+          "spark",
+          "set alight",
+          "turn on",
+          "light up"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "break",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "brayk"
+    },
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "**Break (verb)**: To separate something into smaller parts or pieces by applying force. For example, when you break chocolate, you use your hands or a tool to divide it into smaller sections.",
+        "example": "Please break the chocolate into small pieces.",
+        "synonyms": [
+          "fracture",
+          "shatter",
+          "snap",
+          "split",
+          "crack",
+          "cleave",
+          "divide",
+          "separate",
+          "rupture",
+          "disintegrate"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "**Break (verb)**: To interrupt or stop something from continuing, often used in the context of delivering information. For example, \"to break the news\" means to inform someone about something important or possibly upsetting.",
+        "example": "He decided to break the news gently.",
+        "synonyms": [
+          "announce",
+          "reveal",
+          "disclose",
+          "communicate",
+          "share",
+          "inform",
+          "tell",
+          "impart",
+          "convey"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "**Break (verb)**: To stop doing something for a short time, usually to rest or have a meal. For example, when children take a break for lunch, they pause their activities to eat and relax.",
+        "example": "The children love to break for lunch at noon.",
+        "synonyms": [
+          "pause",
+          "stop",
+          "halt",
+          "recess",
+          "interrupt",
+          "take a break",
+          "take a pause",
+          "take a breather"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "**Break (noun)**: A short period of time when someone stops doing something, especially work or study, to rest or relax. For example, \"She took a short break from studying.\"",
+        "example": "She took a short break from studying.",
+        "synonyms": [
+          "pause",
+          "rest",
+          "interval",
+          "intermission",
+          "recess",
+          "hiatus",
+          "breather",
+          "downtime",
+          "respite",
+          "lull"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "**Break (noun)**: A pause or interruption in something, such as a change in the weather or a gap in a continuous surface. For example, \"There was a break in the clouds after the rain\" means that the clouds parted, allowing some sunlight to come through.",
+        "example": "There was a break in the clouds after the rain.",
+        "synonyms": [
+          "gap",
+          "opening",
+          "pause",
+          "interval",
+          "respite",
+          "intermission",
+          "breach",
+          "rupture",
+          "fissure",
+          "crack"
+        ]
+      }
+    ]
+  }
+]

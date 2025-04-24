@@ -1,7 +1,7 @@
 import z from "zod";
 
 export const level = z.object({
-  cefr: z.string(),
+  // cefr: z.string(),
   rank: z.number(),
 });
 
@@ -16,11 +16,12 @@ export type Notes = z.infer<typeof notes>;
 
 export const meaning = z.object({
   partOfSpeech: z.string(),
+  definition: z.string(),
   example: z.string(),
-  level: level,
-  tags: z.string().array(),
+  // level: level,
+  // tags: z.string().array(),
   synonyms: z.string().array(),
-  notes: notes,
+  // notes: notes,
 });
 
 export type Meaning = z.infer<typeof meaning>;
@@ -29,7 +30,7 @@ export const entry = z.object({
   word: z.string(),
   level: level,
   phonetics: z.object({
-    ipa: z.string(),
+    // ipa: z.string(),
     simplified: z.string(),
   }),
   meanings: meaning.array(),

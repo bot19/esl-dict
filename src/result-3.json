@@ -1,0 +1,205 @@
+[
+  {
+    "word": "dryer",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "drai-er"
+    },
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A machine that uses heat and air to remove moisture from clothes after washing them.",
+        "example": "I put my clothes in the tumble dryer to dry them quickly.",
+        "synonyms": [
+          "tumble dryer",
+          "clothes dryer",
+          "drying machine",
+          "laundry dryer",
+          "spin dryer"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A machine that blows warm air to dry hair after washing it.",
+        "example": "After washing my hair, I used a hair dryer to style it.",
+        "synonyms": [
+          "blow dryer",
+          "hair dryer",
+          "blow drier",
+          "hair drier"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A machine that blows warm air to dry your hands or hair.",
+        "example": "The air dryer in the bathroom is broken, so I had to use paper towels.",
+        "synonyms": [
+          "dehydrator",
+          "blower",
+          "air blower",
+          "hand dryer",
+          "ventilator"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "light",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "lyt"
+    },
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The brightness that comes from a source, such as the sun or a lamp, which makes things visible.",
+        "example": "The light from the sun brightens the room.",
+        "synonyms": [
+          "illumination",
+          "brightness",
+          "radiance",
+          "glow",
+          "luminescence",
+          "shine",
+          "brilliance",
+          "daylight",
+          "beam",
+          "glare",
+          "luminosity",
+          "flash",
+          "sparkle",
+          "twinkle"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Not heavy; easy to carry or wear.",
+        "example": "She wore a light jacket because it was warm outside.",
+        "synonyms": [
+          "lightweight",
+          "airy",
+          "thin",
+          "delicate",
+          "subtle",
+          "gentle",
+          "soft",
+          "mild"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make something start to burn or to provide brightness.",
+        "example": "Please light the candle for the dinner.",
+        "synonyms": [
+          "ignite",
+          "kindle",
+          "illuminate",
+          "brighten",
+          "fire",
+          "flare",
+          "spark",
+          "set alight",
+          "turn on",
+          "light up"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "break",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "brayk"
+    },
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To separate something into smaller parts by using force or pressure.",
+        "example": "Please break the chocolate into small pieces.",
+        "synonyms": [
+          "fracture",
+          "shatter",
+          "snap",
+          "split",
+          "crack",
+          "cleave",
+          "divide",
+          "separate",
+          "rupture",
+          "disintegrate"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To tell someone something important or difficult in a careful way.",
+        "example": "He decided to break the news gently.",
+        "synonyms": [
+          "announce",
+          "reveal",
+          "disclose",
+          "communicate",
+          "share",
+          "inform",
+          "tell",
+          "impart",
+          "convey"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To stop doing something for a short time, usually to rest or eat.",
+        "example": "The children love to break for lunch at noon.",
+        "synonyms": [
+          "pause",
+          "stop",
+          "halt",
+          "recess",
+          "interrupt",
+          "take a break",
+          "take a pause",
+          "take a breather"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A short period of time when someone stops working or studying to rest or relax.",
+        "example": "She took a short break from studying.",
+        "synonyms": [
+          "pause",
+          "rest",
+          "interval",
+          "intermission",
+          "recess",
+          "hiatus",
+          "breather",
+          "downtime",
+          "respite",
+          "lull"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A period of time when something stops or is interrupted, often allowing for a change or improvement.",
+        "example": "There was a break in the clouds after the rain.",
+        "synonyms": [
+          "gap",
+          "opening",
+          "pause",
+          "interval",
+          "respite",
+          "intermission",
+          "breach",
+          "rupture",
+          "fissure",
+          "crack"
+        ]
+      }
+    ]
+  }
+]
