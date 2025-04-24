@@ -91,7 +91,7 @@ const getWordFamily = async (ctx: Context, word: string) => {
 
   const cefrLevelOptions: CcgptOptions = {
     ctx,
-    maxTokens: 100,
+    maxTokens: 150,
     prompt: `for the word: ${word}; provide an optional list of related words or forms (Word Families or Derivatives). Don't include the word itself (${word}). Respond with a comma separated list of words or empty if there are no related words.`,
     schema,
     plainText: true,
@@ -110,7 +110,7 @@ const getHelpfulNote = async (ctx: Context, wordDescription: string) => {
 
   const cefrLevelOptions: CcgptOptions = {
     ctx,
-    maxTokens: 100,
+    maxTokens: 200,
     prompt: `For the word: ${wordDescription}, give me a (1) clear, English-UK ESL-friendly helpful note. Could be related to: usage, grammar, context or pronunciation. Just the note part, don't need to include the word and part of speech again. Keep it simple and easy to understand.`,
     plainText: true,
     schema,
@@ -127,7 +127,7 @@ const getSynonyms = async (ctx: Context, wordDescription: string) => {
 
   const cefrLevelOptions: CcgptOptions = {
     ctx,
-    maxTokens: 500,
+    maxTokens: 150,
     prompt: `Give me a list of synonyms for the word ${wordDescription}. Respond with a comma separated list of words or empty if there are no synonyms.`,
     schema,
     plainText: true,
