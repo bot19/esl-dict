@@ -1,0 +1,471 @@
+[
+  {
+    "word": "dryer",
+    "level": {
+      "cefr": "B1",
+      "rank": 4
+    },
+    "phonetics": {
+      "ipa": "/ˈdraɪər/",
+      "simplified": "drai-er"
+    },
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "example": "I put my clothes in the dryer after washing them.",
+        "level": {
+          "cefr": "B1",
+          "rank": 4
+        },
+        "tags": [
+          "appliance",
+          "laundry",
+          "household",
+          "drying",
+          "clothes",
+          "washing",
+          "home",
+          "fabric care",
+          "machine",
+          "convenience"
+        ],
+        "synonyms": [
+          "dryer",
+          "tumble dryer",
+          "clothes dryer",
+          "drying machine",
+          "drying appliance"
+        ],
+        "notes": {
+          "usage": "Commonly used in households for drying laundry.",
+          "grammar": "Usually used with 'the' (the dryer) or possessive forms (my dryer, your dryer).",
+          "context": "A machine used to remove moisture from clothes after washing.",
+          "pronunciation": "Sounds like 'dry-er'."
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "example": "She used a hair dryer to style her hair quickly.",
+        "level": {
+          "cefr": "B1",
+          "rank": 4
+        },
+        "tags": [
+          "hair dryer",
+          "appliance",
+          "styling tool",
+          "beauty",
+          "personal care",
+          "hair care",
+          "electronics",
+          "grooming",
+          "household item"
+        ],
+        "synonyms": [
+          "blow dryer",
+          "hair dryer",
+          "blow drier",
+          "hair drier"
+        ],
+        "notes": {
+          "usage": "Used to dry hair or other items by blowing hot air.",
+          "grammar": "Commonly used with 'a' or 'the' (e.g., 'a hair dryer').",
+          "context": "Often found in bathrooms or salons; used for personal grooming.",
+          "pronunciation": "Focus on the first syllable 'dry' and the second syllable 'er'."
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "example": "The mechanic used a special dryer to remove moisture from the car's engine.",
+        "level": {
+          "cefr": "B1",
+          "rank": 4
+        },
+        "tags": [
+          "dryer",
+          "mechanic",
+          "moisture removal",
+          "car maintenance",
+          "engine care",
+          "automotive tools",
+          "drying equipment"
+        ],
+        "synonyms": [
+          "dehydrator",
+          "desiccator",
+          "blower",
+          "heat gun",
+          "air blower",
+          "drying machine"
+        ],
+        "notes": {
+          "usage": "Used to describe a machine or device that removes moisture from something, such as clothes, hair, or mechanical parts.",
+          "grammar": "Commonly used with 'the' (the dryer) or possessive forms (my dryer, her dryer). Can be used in both singular and plural forms (dryer, dryers).",
+          "context": "Often found in households for drying clothes or in workshops for drying tools and equipment. Can also refer to hair dryers used for drying hair.",
+          "pronunciation": "The word is pronounced as 'dry-er', with emphasis on the first syllable."
+        }
+      }
+    ]
+  },
+  {
+    "word": "light",
+    "level": {
+      "cefr": "B1",
+      "rank": 3
+    },
+    "phonetics": {
+      "ipa": "laɪt",
+      "simplified": "lyt"
+    },
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "example": "The light in the room was too bright.",
+        "level": {
+          "cefr": "B1",
+          "rank": 3
+        },
+        "tags": [
+          "light",
+          "brightness",
+          "illumination",
+          "room",
+          "visibility",
+          "energy",
+          "color",
+          "atmosphere",
+          "clarity",
+          "glow"
+        ],
+        "synonyms": [
+          "illumination",
+          "brightness",
+          "radiance",
+          "glow",
+          "luminescence",
+          "shine",
+          "brilliance",
+          "gleam",
+          "glare",
+          "beam"
+        ],
+        "notes": {
+          "usage": "Used to describe the brightness in a place, such as a room, or the source of brightness, like a lamp or the sun.",
+          "grammar": "Can be used in singular (light) or plural (lights) form. Commonly used with adjectives (e.g., bright light, dim light) and can be modified by adverbs (e.g., very bright).",
+          "context": "Refers to the natural or artificial brightness that makes things visible.",
+          "pronunciation": "The word is pronounced with a long 'i' sound, similar to 'sight'."
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "example": "She wore a light jacket because it was warm outside.",
+        "level": {
+          "cefr": "B1",
+          "rank": 3
+        },
+        "tags": [
+          "light",
+          "adjective",
+          "clothing",
+          "warmth",
+          "weather",
+          "fashion",
+          "comfort",
+          "style"
+        ],
+        "synonyms": [
+          "lightweight",
+          "airy",
+          "thin",
+          "delicate",
+          "subtle",
+          "gentle",
+          "soft",
+          "mild"
+        ],
+        "notes": {
+          "usage": "Commonly used to describe clothing, colors, or feelings. Example: 'He prefers light colors in summer.'",
+          "grammar": "Often used with nouns to indicate a lower degree of weight or intensity. Can be used in comparative form: 'lighter' and superlative form: 'lightest'.",
+          "context": "Used to describe something that has little weight or is not heavy. Can also refer to something that is not dark in color or has a soft brightness.",
+          "pronunciation": "The word is pronounced with a single syllable, rhyming with 'fight'."
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "example": "Please light the candle for the dinner.",
+        "level": {
+          "cefr": "B1",
+          "rank": 3
+        },
+        "tags": [
+          "light",
+          "verb",
+          "illuminate",
+          "ignite",
+          "brighten",
+          "kindle",
+          "fire",
+          "candle",
+          "dinner",
+          "action"
+        ],
+        "synonyms": [
+          "ignite",
+          "kindle",
+          "illuminate",
+          "brighten",
+          "fire",
+          "flare",
+          "spark",
+          "set alight",
+          "turn on",
+          "light up"
+        ],
+        "notes": {
+          "usage": "Commonly used in everyday situations, especially when referring to candles, lamps, or fires. Example: 'Please light the candle for the dinner.'",
+          "grammar": "Often followed by an object (the thing being lit). Can be used in different tenses: light, lit, lit. Example: 'I will light the fire.'",
+          "context": "Used to describe the action of igniting or starting a fire in something, such as a candle, match, or fire.",
+          "pronunciation": "The word is pronounced with a long 'i' sound, similar to 'bite'."
+        }
+      }
+    ]
+  },
+  {
+    "word": "break",
+    "level": {
+      "cefr": "B1",
+      "rank": 4
+    },
+    "phonetics": {
+      "ipa": "breɪk",
+      "simplified": "brake"
+    },
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "example": "Please break the chocolate bar into pieces.",
+        "level": {
+          "cefr": "B1",
+          "rank": 4
+        },
+        "tags": [
+          "break",
+          "verb",
+          "action",
+          "divide",
+          "separate",
+          "fragment",
+          "chocolate",
+          "food",
+          "cooking",
+          "preparation"
+        ],
+        "synonyms": [
+          "fracture",
+          "shatter",
+          "split",
+          "crack",
+          "cleave",
+          "divide",
+          "separate",
+          "snap",
+          "rupture",
+          "disintegrate"
+        ],
+        "notes": {
+          "usage": "To separate something into smaller parts or pieces by applying force or pressure.",
+          "grammar": "Can be used with objects (e.g., break the chocolate, break the glass). Often followed by 'into' when describing how something is divided (e.g., break into pieces).",
+          "context": "Commonly used in cooking, crafting, and everyday situations where something needs to be divided or damaged. Can also refer to breaking habits or routines (e.g., break a habit).",
+          "pronunciation": "The word is pronounced with a short 'e' sound, rhyming with 'take'."
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "example": "He decided to break the silence with a joke.",
+        "level": {
+          "cefr": "B1",
+          "rank": 4
+        },
+        "tags": [
+          "communication",
+          "interruption",
+          "action",
+          "social interaction",
+          "humor",
+          "expression",
+          "conversation",
+          "engagement"
+        ],
+        "synonyms": [
+          "interrupt",
+          "shatter",
+          "disrupt",
+          "breach",
+          "pierce",
+          "crack",
+          "split",
+          "sever",
+          "breach",
+          "snap"
+        ],
+        "notes": {
+          "usage": "Commonly used in social situations when someone wants to start talking after a period of quiet. Example: 'She broke the silence by asking a question.'",
+          "grammar": "Can be used in various tenses: break (present), broke (past), broken (past participle). Often followed by 'the silence' or 'the tension.'",
+          "context": "Used to describe the action of interrupting a state of silence or stillness, often to initiate conversation or change the atmosphere.",
+          "pronunciation": "Focus on the clear 'br' sound at the beginning and the short 'e' sound."
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "example": "The storm could break the old tree.",
+        "level": {
+          "cefr": "B1",
+          "rank": 4
+        },
+        "tags": [
+          "break",
+          "verb",
+          "action",
+          "damage",
+          "destruction",
+          "nature",
+          "storm",
+          "tree",
+          "physical",
+          "force"
+        ],
+        "synonyms": [
+          "shatter",
+          "fracture",
+          "snap",
+          "crush",
+          "split",
+          "rupture",
+          "cleave",
+          "sever",
+          "destroy",
+          "disrupt"
+        ],
+        "notes": {
+          "usage": "Commonly used in both literal and figurative contexts. For example, 'break a promise' means to not keep a promise, while 'break a window' means to shatter the glass.",
+          "grammar": "Often followed by an object (what is being broken). Can be used in various tenses: break, broke, broken. Can also be used in different forms: breaking (present participle), breaks (third person singular).",
+          "context": "Used to describe the action of causing something to separate into pieces or to stop functioning. Can refer to physical objects or abstract concepts.",
+          "pronunciation": "The word is pronounced with a short 'e' sound, similar to 'brake'."
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "example": "We took a short break during the meeting.",
+        "level": {
+          "cefr": "B1",
+          "rank": 4
+        },
+        "tags": [
+          "break",
+          "pause",
+          "rest",
+          "interruption",
+          "meeting",
+          "downtime",
+          "interval",
+          "recess",
+          "relaxation",
+          "time-out"
+        ],
+        "synonyms": [
+          "pause",
+          "interval",
+          "recess",
+          "intermission",
+          "respite",
+          "hiatus",
+          "lull",
+          "breather",
+          "downtime",
+          "suspension"
+        ],
+        "notes": {
+          "usage": "Commonly used in workplaces, schools, and casual conversations. Example: 'Let's take a break before continuing.'",
+          "grammar": "Can be used with adjectives (e.g., short break, long break) and in phrases (e.g., coffee break, lunch break).",
+          "context": "Used to refer to a short period of rest or pause from work or activity.",
+          "pronunciation": "Emphasize the 'br' sound at the beginning."
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "example": "She got a break in her career when she was promoted.",
+        "level": {
+          "cefr": "B2",
+          "rank": 4
+        },
+        "tags": [
+          "career",
+          "opportunity",
+          "promotion",
+          "success",
+          "advancement",
+          "chance",
+          "milestone",
+          "achievement",
+          "growth",
+          "development"
+        ],
+        "synonyms": [
+          "opportunity",
+          "chance",
+          "advancement",
+          "promotion",
+          "boost",
+          "leap",
+          "step up",
+          "windfall",
+          "break-through"
+        ],
+        "notes": {
+          "usage": "Commonly used when talking about jobs, careers, or personal situations. Example: 'He finally got a break after years of hard work.'",
+          "grammar": "Often used with 'get' or 'give'. Can be followed by 'in' (e.g., 'a break in her career') or 'to' (e.g., 'a break to someone').",
+          "context": "Used to describe an opportunity or chance that helps someone succeed or improve their situation.",
+          "pronunciation": "Break is pronounced like 'brayk', rhymes with 'cake'."
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "example": "There was a break in the clouds after the rain.",
+        "level": {
+          "cefr": "B1",
+          "rank": 4
+        },
+        "tags": [
+          "break",
+          "noun",
+          "weather",
+          "clouds",
+          "rain",
+          "pause",
+          "interruption",
+          "gap",
+          "opening",
+          "relief"
+        ],
+        "synonyms": [
+          "gap",
+          "opening",
+          "pause",
+          "interval",
+          "respite",
+          "intermission",
+          "breach",
+          "rupture",
+          "fissure",
+          "crack"
+        ],
+        "notes": {
+          "usage": "Commonly used to indicate a change or a moment of relief, like a break in the clouds or a break in a conversation.",
+          "grammar": "Can be used in various contexts, often followed by 'in' to specify what is interrupted or changed (e.g., break in the rain, break in the routine).",
+          "context": "Used to describe a pause or interruption in something, such as weather, activity, or a situation.",
+          "pronunciation": "Focus on the single syllable, pronounced like 'brake'."
+        }
+      }
+    ]
+  }
+]
