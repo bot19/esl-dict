@@ -22,17 +22,18 @@ export interface CcgptOptions
 class CgptError extends ZodError {
   constructor(
     issues: ZodIssue[],
-    public response: string,
+    public response: string
   ) {
     super(issues);
   }
 }
 
+// NOTE rate limting. Might need to experiment with this.
 const limit = withLimit(1000, 20);
 
 export const ccgpt = async <S extends ZodType>(
   name: string,
-  { ctx, schema, prompt, plainText, retries = 5, ...props }: CcgptOptions,
+  { ctx, schema, prompt, plainText, retries = 5, ...props }: CcgptOptions
 ): Promise<z.infer<S>> => {
   name = `cgpt.${name}`;
   ctx = ctx.step(name);
@@ -47,11 +48,11 @@ export const ccgpt = async <S extends ZodType>(
       limit,
       withErrorLog(ctx),
       withRetries(ctx, retries, retryCounter),
-      withContextualErrors(ctx, key, prompt),
-    )(rawCgptCall),
+      withContextualErrors(ctx, key, prompt)
+    )(rawCgptCall)
   );
 
-  const { data } = await cgptCallWithDecorators({
+  const { data } = (await cgptCallWithDecorators({
     ctx,
     cacheId: name,
     inputs,
@@ -63,7 +64,7 @@ export const ccgpt = async <S extends ZodType>(
       ...schemaProps,
       ...props,
     },
-  }) as { data: string }; // Add type assertion here
+  })) as { data: string }; // Add type assertion here
 
   try {
     return parse(schema, Boolean(plainText), data, {
