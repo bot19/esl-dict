@@ -1,0 +1,3427 @@
+[
+  {
+    "word": "act",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "akt"
+    },
+    "wordFamily": [
+      "action",
+      "active",
+      "actor",
+      "actress",
+      "activity",
+      "activate",
+      "acting",
+      "enacted",
+      "reaction",
+      "interaction",
+      "transaction",
+      "inaction",
+      "proactive",
+      "deactivate",
+      "reenactment"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To do something or take action, especially based on a feeling or thought.",
+        "example": "She decided to act on her instincts.",
+        "note": "When using \"act\" in the context of \"act on,\" it means to take action based on something, like a feeling or advice. Remember to follow \"act on\" with a noun or a pronoun, such as \"her instincts\" or \"the advice.\" This phrase is often used to show that someone is responding to a situation or making a decision based on their thoughts or feelings.",
+        "synonyms": [
+          "perform",
+          "take action",
+          "operate",
+          "execute",
+          "behave",
+          "react",
+          "respond",
+          "move",
+          "do",
+          "engage"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To do a particular job or take on a specific role.",
+        "example": "He will act as the team leader during the project.",
+        "note": "When using \"act\" in this context, it means to perform a role or function temporarily. It is often followed by \"as\" to indicate the role being taken on. For example, \"She will act as the spokesperson.\" Remember that this usage implies that the person is not permanently in that role; they are filling in for someone else or taking on the responsibilities for a specific time or situation.",
+        "synonyms": [
+          "serve",
+          "function",
+          "perform",
+          "operate",
+          "take on",
+          "assume",
+          "play",
+          "fulfill",
+          "represent"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To perform a role or a scene in a play or story, often by using gestures, expressions, and speech.",
+        "example": "The children were asked to act out the story.",
+        "note": "When using \"act\" as a verb, it often means to perform or behave in a certain way. In the context of \"act out,\" it specifically refers to performing a story or situation, usually with gestures and expressions. Remember to use it in the correct tense depending on the subject: \"I act,\" \"you act,\" \"he/she/it acts,\" \"we act,\" \"they act.\"",
+        "synonyms": [
+          "perform",
+          "portray",
+          "enact",
+          "play",
+          "represent",
+          "illustrate",
+          "demonstrate",
+          "simulate",
+          "embody"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To do something or behave in a certain way, especially in response to a situation.",
+        "example": "You should act responsibly in this situation.",
+        "note": "When using \"act\" as a verb, remember that it often requires an adverb to describe how you are doing the action. For example, you can say \"act quickly\" or \"act carefully.\" This helps to clarify the manner in which you are acting.",
+        "synonyms": [
+          "behave",
+          "perform",
+          "operate",
+          "function",
+          "conduct",
+          "react",
+          "respond",
+          "take action",
+          "engage",
+          "move"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To behave in a certain way or to do something.",
+        "example": "They act differently when they are in a group.",
+        "note": "When using \"act\" as a verb, remember that it often describes how someone behaves or performs in a situation. It can be followed by an adverb (like \"differently\") to describe the manner of the action. For example, \"They act differently when they are in a group.\" This shows that their behaviour changes based on the context.",
+        "synonyms": [
+          "behave conduct perform operate function react respond"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "add",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "ad"
+    },
+    "wordFamily": [
+      "addition",
+      "additive",
+      "added",
+      "adding",
+      "additionist"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To put two or more numbers or amounts together to get a total.",
+        "example": "Please add the numbers together.",
+        "note": "When using \"add,\" remember that it often requires an object, which is the thing you are adding. For example, you can say \"add the numbers\" or \"add sugar to the tea.\" It is important to specify what you are adding to make your sentence clear.",
+        "synonyms": [
+          "combine",
+          "sum",
+          "total",
+          "increase",
+          "append",
+          "include",
+          "join",
+          "unite",
+          "aggregate",
+          "incorporate"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To put something together with something else, or to include something in a group or list.",
+        "example": "Can you add your name to the list?",
+        "note": "When using \"add,\" remember that it often requires an object, which is the thing you are including. For example, you can say \"add your name\" or \"add more information.\" You can also use \"add\" with \"to\" when specifying where you are adding something, like \"add to the list.\" Make sure to use the correct form of the verb depending on the tense, such as \"added\" for the past tense.",
+        "synonyms": [
+          "include",
+          "append",
+          "attach",
+          "insert",
+          "incorporate",
+          "combine",
+          "join",
+          "merge",
+          "supplement"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To put something together with something else to increase the amount or to make it better.",
+        "example": "I will add some sugar to my tea.",
+        "note": "When using \"add,\" remember that it often requires an object, which is the thing you are including. For example, in the sentence \"I will add some sugar to my tea,\" \"some sugar\" is the object. You can also use \"add\" with phrases like \"add to\" or \"add in\" to specify where or how you are including something.",
+        "synonyms": [
+          "include",
+          "incorporate",
+          "mix",
+          "combine",
+          "supplement",
+          "attach",
+          "insert",
+          "contribute",
+          "enhance",
+          "augment"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To put something together with something else to increase the amount or improve it.",
+        "example": "They decided to add a new feature to the app.",
+        "note": "When using \"add,\" remember that it often requires an object, which is the thing you are adding. For example, in the sentence \"They decided to add a new feature,\" \"a new feature\" is the object. You can also use \"add\" with prepositions like \"to\" (e.g., \"add to\") when you want to specify where you are adding something.",
+        "synonyms": [
+          "include",
+          "incorporate",
+          "integrate",
+          "append",
+          "attach",
+          "introduce",
+          "insert",
+          "augment",
+          "enhance",
+          "supplement"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "age",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "ayj"
+    },
+    "wordFamily": [
+      "aging",
+      "ageless",
+      "ageism",
+      "aged",
+      "ager",
+      "ageist"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The number of years someone has lived or something has existed.",
+        "example": "She is at the age of ten.",
+        "note": "When using \"age\" to talk about how old someone is, you can say \"at the age of\" followed by the number. For example, \"at the age of ten.\" This phrase is often used to describe a specific point in someone's life. Remember to use \"age\" as a noun, and it is usually not plural when talking about someone's specific age.",
+        "synonyms": [
+          "period",
+          "stage",
+          "era",
+          "time",
+          "phase",
+          "generation",
+          "lifespan",
+          "maturity",
+          "epoch"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "The length of time that something has existed or been in use.",
+        "example": "The age of the building is over a hundred years.",
+        "note": "When using \"age\" to refer to the length of time something has existed, it is often followed by \"of\" and a noun (e.g., \"the age of the building\"). You can also use it in phrases like \"at the age of\" to talk about someone's age when they did something (e.g., \"She learned to read at the age of five\"). Remember to use \"age\" as a noun, not a verb in these contexts.",
+        "synonyms": [
+          "era",
+          "period",
+          "epoch",
+          "time",
+          "stage",
+          "phase",
+          "generation",
+          "lifespan",
+          "duration",
+          "antiquity"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "The number of years someone has lived or the length of time something has existed.",
+        "example": "He is wise beyond his age.",
+        "note": "When using \"age\" as a noun, it often refers to the length of time someone has lived or the period in which someone was born. In sentences, it can be used to compare wisdom or experience, as in \"wise beyond his age.\" Remember to use \"age\" with a number or descriptor (like \"young\" or \"old\") to clarify the context, such as \"at the age of 10\" or \"in her old age.\"",
+        "synonyms": [
+          "era",
+          "period",
+          "time",
+          "generation",
+          "stage",
+          "lifespan",
+          "maturity",
+          "epoch",
+          "phase",
+          "lifetime"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A period in history or a time when something is happening or being developed.",
+        "example": "The digital age has changed how we communicate.",
+        "note": "When using \"age\" to refer to a period in history or a stage in life, it is often preceded by \"the\" (e.g., \"the digital age\"). Remember that \"age\" can also refer to how old someone is, so context is important. In sentences, it usually functions as a noun and can be used with adjectives to describe specific types of ages, like \"modern age\" or \"stone age.\"",
+        "synonyms": [
+          "era",
+          "period",
+          "epoch",
+          "time",
+          "generation",
+          "phase",
+          "stage",
+          "age group"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To become older or to develop over time, especially in a way that improves quality.",
+        "example": "The wine will age well in the bottle.",
+        "note": "When using \"age\" as a verb, it often refers to the process of becoming older or maturing over time. It can be used for both living things, like people, and non-living things, like wine or cheese. Remember to use it in the correct tense depending on the context. For example, \"The wine ages well\" (present simple) or \"The wine aged well\" (past simple).",
+        "synonyms": [
+          "mature develop ripen improve"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ago",
+    "level": {
+      "rank": 4
+    },
+    "phonetics": {
+      "simplified": "uh-goh"
+    },
+    "wordFamily": [
+      "before",
+      "previously",
+      "past",
+      "earlier",
+      "former",
+      "antiquity",
+      "bygone",
+      "elapsed"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definition": "In the past; a period of time before now.",
+        "example": "I visited London two years ago.",
+        "note": "\"Ago\" is used to indicate a time in the past. It is placed after a time expression, such as \"two years\" or \"three days.\" For example, you say \"two years ago\" to mean two years before now. Remember, \"ago\" is only used with the past tense, so you would say \"I saw her a week ago,\" not \"I see her a week ago.\"",
+        "synonyms": [
+          "before",
+          "previously",
+          "earlier",
+          "back"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aid",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "Sure! Please provide the word you'd like me to render phonetically."
+    },
+    "wordFamily": [
+      "aider",
+      "aiding",
+      "aided",
+      "aide",
+      "aids",
+      "assistance",
+      "assist",
+      "assistive",
+      "assistant"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Help or support, especially in the form of money or resources, given to people or groups who need it.",
+        "example": "The charity provides financial aid to families in need.",
+        "note": "When using \"aid\" as a noun, it often refers to help or support, especially in financial or practical terms. It is commonly used in contexts like education, healthcare, and humanitarian efforts. Remember to use it with words like \"provide,\" \"offer,\" or \"receive\" to show the action related to the aid. For example, \"The government provides aid to those affected by the disaster.\"",
+        "synonyms": [
+          "assistance",
+          "support",
+          "help",
+          "relief",
+          "backing",
+          "subsidy",
+          "grant",
+          "contribution",
+          "donation",
+          "sponsorship"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To help someone do something or make it easier for them.",
+        "example": "The teacher will aid the students with their homework.",
+        "note": "When using \"aid\" as a verb, remember that it often requires an object, meaning you need to specify who or what is being helped. For example, you can say \"aid the students\" or \"aid the community.\" It is also important to note that \"aid\" can be used in both formal and informal contexts, but it is more common in formal situations.",
+        "synonyms": [
+          "assist",
+          "help",
+          "support",
+          "facilitate",
+          "guide",
+          "enable",
+          "bolster",
+          "back",
+          "promote",
+          "encourage"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aim",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "Sure! Please provide the word you'd like me to render phonetically."
+    },
+    "wordFamily": [
+      "aiming",
+      "aimed",
+      "aims",
+      "aimless",
+      "aimlessness",
+      "aimlessly",
+      "aimers"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To plan or intend to achieve something.",
+        "example": "She aims to finish her project by Friday.",
+        "note": "When using \"aim\" as a verb, it often takes the preposition \"to\" followed by the base form of another verb (e.g., \"aim to finish\"). This structure shows intention or a goal. Remember that \"aim\" can also be used with \"at\" when referring to a target or focus (e.g., \"aim at improving skills\").",
+        "synonyms": [
+          "intend",
+          "plan",
+          "strive",
+          "seek",
+          "target",
+          "aspire",
+          "endeavor",
+          "hope",
+          "wish",
+          "set out"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A goal or purpose that someone wants to achieve.",
+        "example": "His aim is to improve his English skills.",
+        "note": "When using \"aim\" as a noun, it often refers to a goal or purpose. You can use it in sentences to express what someone wants to achieve. For example, \"Her aim is to travel the world.\" Remember to follow it with \"to\" and the base form of a verb (like \"improve\" or \"travel\") to show what the aim is directed towards.",
+        "synonyms": [
+          "goal",
+          "objective",
+          "target",
+          "intention",
+          "purpose",
+          "aspiration",
+          "ambition",
+          "plan",
+          "design",
+          "direction"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "air",
+    "level": {
+      "rank": 2
+    },
+    "phonetics": {
+      "simplified": "air"
+    },
+    "wordFamily": [
+      "aerial",
+      "airless",
+      "airborne",
+      "airship",
+      "airspace",
+      "airiness",
+      "airily",
+      "airman",
+      "airfield",
+      "airwave",
+      "airbrush",
+      "airlock",
+      "airlift",
+      "air quality",
+      "air conditioning"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The invisible mixture of gases that we breathe, which surrounds the Earth and is necessary for life.",
+        "example": "The air is fresh in the countryside.",
+        "note": "When using \"air\" in a sentence, remember that it refers to the invisible mixture of gases we breathe. It can also describe the atmosphere or feeling of a place. For example, \"The air is fresh\" means the atmosphere feels clean and pleasant. You can also use \"air\" in phrases like \"air quality\" to talk about how clean or polluted the air is.",
+        "synonyms": [
+          "atmosphere",
+          "breeze",
+          "sky",
+          "wind",
+          "oxygen",
+          "atmosphere"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "The space around us that we breathe and where sounds travel; it can also refer to radio or television broadcasts.",
+        "example": "She played the song on the airwaves.",
+        "note": "When using \"air\" in the context of broadcasting, it often refers to the transmission of sound or signals through radio or television. You can say \"to air a programme\" or \"to be on the air,\" meaning that something is being broadcast. Remember to use it in contexts related to media and communication.",
+        "synonyms": [
+          "waves",
+          "broadcast",
+          "transmission",
+          "signal",
+          "frequency"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To express or share your thoughts or feelings openly, especially in a discussion or conversation.",
+        "example": "He decided to air his opinions during the meeting.",
+        "note": "When using \"air\" as a verb, it means to express or make something known, especially opinions or feelings. It is often used in contexts where someone shares their thoughts openly, like in meetings or discussions. Remember to use it in the correct tense, for example, \"I will air my views\" or \"She aired her concerns.\"",
+        "synonyms": [
+          "express",
+          "voice",
+          "articulate",
+          "communicate",
+          "share",
+          "convey",
+          "disclose",
+          "reveal"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A feeling or atmosphere that is present in a place or situation.",
+        "example": "The room was filled with an air of excitement.",
+        "note": "When using \"air\" in this context, it often describes a general feeling or atmosphere in a place. You can use it with adjectives like \"an air of mystery\" or \"an air of confidence\" to convey specific emotions or qualities present in the environment. Remember to use \"air\" with \"of\" to connect it to the feeling you want to describe.",
+        "synonyms": [
+          "atmosphere",
+          "ambiance",
+          "aura",
+          "feeling",
+          "mood",
+          "spirit",
+          "tone"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "all",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "Sure! Please provide the words or phrases you'd like me to render phonetically."
+    },
+    "wordFamily": [
+      "allness",
+      "altogether",
+      "all-encompassing",
+      "all-inclusive",
+      "allusion",
+      "allocate",
+      "allocation"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "determiner",
+        "definition": "The whole number of people or things in a group; every one without exception.",
+        "example": "All students must submit their assignments.",
+        "note": "\"All\" is used to refer to the whole quantity or group of something. When you use \"all\" with a plural noun, like \"students,\" it means every member of that group. Remember to use \"all\" with plural nouns or uncountable nouns (e.g., \"all water\") to indicate that you are talking about everything in that category.",
+        "synonyms": [
+          "every",
+          "each",
+          "whole",
+          "entire",
+          "complete",
+          "total"
+        ]
+      },
+      {
+        "partOfSpeech": "pronoun",
+        "definition": "The whole number of people or things in a group.",
+        "example": "All are welcome to join the meeting.",
+        "note": "When using \"all\" as a pronoun, it refers to the whole group of people or things. It is often used to indicate inclusivity, meaning everyone or everything is included. For example, in the sentence \"All are welcome to join the meeting,\" it means that everyone is invited. Remember to use \"are\" after \"all\" when referring to plural nouns.",
+        "synonyms": [
+          "everyone",
+          "everybody",
+          "all people",
+          "all individuals",
+          "all members"
+        ]
+      },
+      {
+        "partOfSpeech": "adverb",
+        "definition": "Completely or very; used to emphasize the extent of something.",
+        "example": "She was all alone in the house.",
+        "note": "When using \"all\" as an adverb, it often emphasizes the totality or completeness of something. In the example \"She was all alone in the house,\" it means she was completely alone, with no one else there. This usage adds intensity to the description, so be mindful of the context in which you use it.",
+        "synonyms": [
+          "completely",
+          "entirely",
+          "wholly",
+          "fully",
+          "totally",
+          "utterly",
+          "thoroughly",
+          "altogether"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "The total amount of something; everything that someone has or can give.",
+        "example": "He gave his all in the competition.",
+        "note": "When using \"all\" in the phrase \"gave his all,\" it means to put in maximum effort or to give everything one has. This expression is often used in sports or competitions to show dedication and commitment. Remember, it emphasizes the idea of total effort rather than just a part of it.",
+        "synonyms": [
+          "complete",
+          "total",
+          "entire",
+          "whole",
+          "full",
+          "utmost",
+          "maximum",
+          "comprehensive"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "and",
+    "level": {
+      "rank": 1
+    },
+    "phonetics": {
+      "simplified": "for: fawr  \nand: and"
+    },
+    "wordFamily": [
+      "empty"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or sentences that are similar or related, showing that they are added together.",
+        "example": "I like tea and coffee.",
+        "note": "Use this word to connect two similar ideas or items in a sentence. For example, in \"I like tea and coffee,\" it shows that you enjoy both drinks equally. Remember, it helps to join words, phrases, or clauses, making your sentences smoother and clearer.",
+        "synonyms": [
+          "but",
+          "plus",
+          "also",
+          "as well as",
+          "along with"
+        ]
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or sentences, showing that they are related or that one thing happens in addition to another.",
+        "example": "She studied hard and passed the exam.",
+        "note": "Use this word to connect two ideas or actions in a sentence. It shows that both parts are related or happen together. For example, in \"She studied hard and passed the exam,\" it links studying and passing the exam, indicating that studying helped her succeed. Remember, it can also be used to add more information, like in \"I like tea and coffee.\"",
+        "synonyms": [
+          "but",
+          "also",
+          "plus",
+          "as well as",
+          "in addition",
+          "furthermore",
+          "moreover"
+        ]
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or clauses that are similar or related in meaning.",
+        "example": "He is tall and athletic.",
+        "note": "Use this word to connect two similar ideas or items in a sentence. It helps to show that both parts are equally important. For example, in \"He is tall and athletic,\" it links the two qualities together, indicating that both describe the same person.",
+        "synonyms": [
+          "but",
+          "also",
+          "as well as",
+          "in addition to",
+          "plus"
+        ]
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or sentences, showing that they are related or that one thing happens in addition to another.",
+        "example": "We can go to the park and have a picnic.",
+        "note": "Use this word to connect two ideas or actions in a sentence. It shows that both parts are related and happen together. For example, in \"We can go to the park and have a picnic,\" it links going to the park with having a picnic, indicating that both activities will occur.",
+        "synonyms": [
+          "but",
+          "also",
+          "plus",
+          "as well as",
+          "together with",
+          "along with"
+        ]
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or sentences, showing that they are related or added together.",
+        "example": "You can have cake and ice cream.",
+        "note": "Use \"and\" to connect two similar ideas or items in a sentence. It helps to show that both things are included. For example, in \"You can have cake and ice cream,\" it means you can have both cake and ice cream, not just one. Remember to use a comma before \"and\" when connecting two complete sentences, like in \"I like tea, and I like coffee.\"",
+        "synonyms": [
+          "or",
+          "plus",
+          "as well as",
+          "along with",
+          "together with"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ant",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "ant"
+    },
+    "wordFamily": [
+      "antenna",
+      "anteater",
+      "antelope",
+      "antacid",
+      "antagonist",
+      "antithesis",
+      "antitrust",
+      "antivenom",
+      "antiphon",
+      "antinomy"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A small insect that lives in groups and often works together to find food and build homes.",
+        "example": "The ant carried a crumb back to its nest.",
+        "note": "When using \"ant\" in a sentence, remember that it is a singular noun. If you want to talk about more than one, use \"ants.\" For example, \"I saw many ants in the garden.\" This helps to show whether you are talking about one ant or several.",
+        "synonyms": [
+          "insect",
+          "bug",
+          "creature"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "any",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "Sure! Please provide the word you'd like me to render phonetically."
+    },
+    "wordFamily": [
+      "anyone",
+      "anything",
+      "anywhere",
+      "anyhow",
+      "anyplace"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "determiner",
+        "definition": "Used to refer to an unspecified amount or number of something, often in negative sentences or questions.",
+        "example": "Do you have any questions?",
+        "note": "\"Any\" is used in questions and negative sentences to refer to an unspecified amount or number of something. For example, in the question \"Do you have any questions?\", it means 'some questions' but we don't know how many. In negative sentences, like \"I don't have any money,\" it emphasizes that there is none at all. Remember, \"any\" is often used when we expect a negative answer or when we are unsure if there will be a positive answer.",
+        "synonyms": [
+          "some",
+          "whichever",
+          "whatever"
+        ]
+      },
+      {
+        "partOfSpeech": "pronoun",
+        "definition": "Used to refer to an amount or number of something, often in negative sentences or questions, meaning \"one or more\" but indicating that there is none or not enough.",
+        "example": "I don't have any.",
+        "note": "\"Any\" is used in negative sentences and questions to refer to an unspecified amount or number. For example, in \"I don't have any,\" it means you have zero of something. Remember, \"any\" is not used in positive statements; instead, use \"some.\" For example, \"I have some apples.\"",
+        "synonyms": [
+          "some",
+          "a single",
+          "one",
+          "a few"
+        ]
+      },
+      {
+        "partOfSpeech": "adverb",
+        "definition": "In any place or location; it does not matter which place.",
+        "example": "You can go anywhere you like.",
+        "note": "When using \"any\" in sentences like \"You can go anywhere you like,\" it often suggests that there are no limits or restrictions. It can be used in positive sentences, questions, and negatives. Remember that \"anywhere\" is a combination of \"any\" and \"where,\" meaning it refers to any place without specifying which one.",
+        "synonyms": [
+          "anywhere",
+          "everywhere",
+          "wherever"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "app",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "æp"
+    },
+    "wordFamily": [
+      "application",
+      "apply",
+      "applicable",
+      "applicant",
+      "appointment",
+      "apparatus",
+      "appraise",
+      "appraisal",
+      "appraiser",
+      "appraising"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A small program that you can download and use on your phone or computer to perform specific tasks or activities.",
+        "example": "I downloaded a new app for my phone.",
+        "note": "An \"app\" is a short form of \"application,\" which refers to software designed for a specific purpose, often used on smartphones or tablets. When talking about apps, you can say \"download an app,\" \"use an app,\" or \"install an app.\" Remember to use \"an\" before \"app\" because it starts with a vowel sound.",
+        "synonyms": [
+          "application",
+          "software",
+          "program",
+          "tool",
+          "platform",
+          "utility",
+          "system"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A computer program that you can download and use on a smartphone or tablet to perform specific tasks or activities.",
+        "example": "The app allows you to track your fitness goals.",
+        "note": "An \"app\" is a short form of \"application,\" which refers to software designed for a specific purpose, often used on smartphones or tablets. When talking about apps, you can use phrases like \"download an app\" or \"use an app\" to describe getting or using the software. Remember to pronounce it as /æp/, rhyming with \"cap.\"",
+        "synonyms": [
+          "application",
+          "software",
+          "program",
+          "platform",
+          "tool",
+          "utility",
+          "system"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A computer program designed to perform specific tasks or provide services, often used on smartphones or tablets.",
+        "example": "She created an app to help students learn languages.",
+        "note": "An \"app\" is a short form of \"application,\" which refers to software designed to perform specific tasks on devices like smartphones or computers. When using \"app,\" remember to specify what it does, such as \"language learning app\" or \"fitness app,\" to give more context about its purpose.",
+        "synonyms": [
+          "application",
+          "software",
+          "program",
+          "tool",
+          "platform",
+          "system",
+          "utility",
+          "solution"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "apt",
+    "level": {
+      "rank": 4
+    },
+    "phonetics": {
+      "simplified": "apt"
+    },
+    "wordFamily": [
+      "aptitude",
+      "apter",
+      "aptly",
+      "aptness"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Having a natural ability or skill; quick to learn or understand.",
+        "example": "She is an apt student who learns quickly.",
+        "note": "When using \"apt\" to describe someone, it often means they have a natural ability or talent for something. It can also imply that they are quick to understand or learn new things. Remember to use it in contexts where you want to highlight someone's skill or intelligence, such as in education or training.",
+        "synonyms": [
+          "suitable",
+          "appropriate",
+          "fitting",
+          "capable",
+          "proficient",
+          "skilled",
+          "talented",
+          "quick",
+          "clever",
+          "bright"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Well-suited or appropriate for a particular situation or purpose.",
+        "example": "His comments were apt for the situation.",
+        "note": "When using \"apt\" to describe something, it means that it is suitable or appropriate for a particular situation. You can use it to express that a comment, action, or response fits well with what is happening. For example, saying \"Her advice was apt for the occasion\" means her advice was very fitting for that specific event. Remember, \"apt\" is often used in more formal contexts, so it might not be as common in everyday conversation.",
+        "synonyms": [
+          "appropriate",
+          "suitable",
+          "fitting",
+          "relevant",
+          "pertinent",
+          "timely",
+          "proper",
+          "right",
+          "applicable",
+          "well-suited"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Suitable or appropriate for a particular situation or purpose.",
+        "example": "The apt description helped everyone understand the topic.",
+        "note": "When using \"apt\" to describe something, it means that it is suitable or appropriate for a particular situation. You can use it to talk about descriptions, comments, or actions that fit well with what you are discussing. For example, saying \"an apt analogy\" means the analogy is very fitting and helps clarify the idea. Remember, \"apt\" is often used in more formal contexts.",
+        "synonyms": [
+          "appropriate",
+          "suitable",
+          "fitting",
+          "relevant",
+          "pertinent",
+          "timely",
+          "proper",
+          "applicable",
+          "right",
+          "well-suited"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "arm",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "ahrm"
+    },
+    "wordFamily": [
+      "arms",
+      "armed",
+      "armory",
+      "armament",
+      "armchair",
+      "armful",
+      "armistice",
+      "armistice",
+      "disarm",
+      "rearm",
+      "unarmed"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A part of the body that connects the shoulder to the hand, used for lifting, holding, and moving things.",
+        "example": "He broke his arm while playing football.",
+        "note": "When using \"arm\" in a sentence, remember that it refers to the upper limb of the body, from the shoulder to the wrist. It can also be used in phrases like \"to lend a hand\" or \"to arm oneself,\" which have different meanings. In pronunciation, the \"a\" sounds like the \"a\" in \"car,\" and the \"r\" is pronounced clearly in British English.",
+        "synonyms": [
+          "limb",
+          "appendage",
+          "forelimb",
+          "extremity"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To provide weapons or equipment to someone, especially a military group, so they can defend themselves or fight.",
+        "example": "The country decided to arm its military forces.",
+        "note": "When using \"arm\" as a verb, it often refers to providing weapons or military equipment to a group or organization. It is commonly used in discussions about military actions or defense strategies. Remember to use it in contexts related to security or preparation for conflict. For example, you might say, \"The government plans to arm the police with new technology.\"",
+        "synonyms": [
+          "equip",
+          "supply",
+          "furnish",
+          "provide",
+          "armament",
+          "weaponize"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "art",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "ahrt"
+    },
+    "wordFamily": [
+      "artist",
+      "artistic",
+      "artistry",
+      "artifact",
+      "artful",
+      "artless",
+      "artifice",
+      "artfulness",
+      "artifice",
+      "artfulness"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Creative works, such as paintings, sculptures, or music, that express ideas or emotions.",
+        "example": "She loves to visit the art gallery on weekends.",
+        "note": "When using \"art\" in a sentence, remember that it can refer to various forms of creative expression, such as painting, sculpture, music, and theatre. It is often used in phrases like \"fine art\" or \"performing arts.\" In British English, \"art\" is usually uncountable, so you would say \"She loves art\" rather than \"She loves an art.\"",
+        "synonyms": [
+          "craft",
+          "artwork",
+          "creation",
+          "design",
+          "masterpiece",
+          "painting",
+          "sculpture",
+          "illustration",
+          "piece",
+          "work"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A skill or ability to create or do something in a creative way, such as painting, music, or cooking.",
+        "example": "He has a talent for the art of cooking.",
+        "note": "When using \"art\" to refer to a skill or talent, it often describes creative activities like cooking, painting, or music. Remember to use \"the art of\" followed by a gerund (verb + -ing) to show the specific skill, as in \"the art of cooking.\" This phrase highlights the mastery and creativity involved in that activity.",
+        "synonyms": [
+          "craft",
+          "skill",
+          "technique",
+          "mastery",
+          "artistry",
+          "creation",
+          "workmanship",
+          "talent",
+          "ability",
+          "expertise"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A skill or ability that involves creativity and imagination, often used to create something beautiful or to express ideas.",
+        "example": "The art of negotiation is essential in business.",
+        "note": "When using \"art\" in the context of skills or practices, it often refers to a specific area of expertise or creativity, such as \"the art of negotiation\" or \"the art of cooking.\" It is usually followed by \"of\" and a gerund (verb ending in -ing) to describe what skill or practice is being referred to.",
+        "synonyms": [
+          "craft",
+          "skill",
+          "technique",
+          "mastery",
+          "finesse",
+          "artistry",
+          "ability",
+          "expertise",
+          "talent",
+          "workmanship"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A skill or activity that involves creating things like paintings, music, or performances, often expressing ideas or emotions.",
+        "example": "They studied the art of painting in their course.",
+        "note": "Art can refer to various creative activities, such as painting, music, or dance. When using \"art\" in a sentence, remember that it is often uncountable, so you would say \"the art of painting\" rather than \"an art of painting.\" Use \"art\" to describe skills or practices that involve creativity and expression.",
+        "synonyms": [
+          "craft",
+          "skill",
+          "technique",
+          "creativity",
+          "artistry",
+          "design",
+          "expression",
+          "workmanship",
+          "aesthetics"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "Creative work that expresses ideas or feelings, often in forms like painting, music, or performance.",
+        "example": "The performance was a beautiful display of art.",
+        "note": "Art can refer to various forms of creative expression, such as painting, music, theatre, and dance. When using \"art\" in a sentence, remember that it is often uncountable, so you would say \"some art\" or \"a piece of art\" rather than \"an art.\"",
+        "synonyms": [
+          "craft",
+          "creativity",
+          "artistry",
+          "skill",
+          "workmanship",
+          "expression",
+          "design",
+          "aesthetic",
+          "talent",
+          "creation"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ash",
+    "level": {
+      "rank": 6
+    },
+    "phonetics": {
+      "simplified": "ash"
+    },
+    "wordFamily": [
+      "ashes",
+      "ashen",
+      "ashtray",
+      "ashfall",
+      "ashore",
+      "ashwood"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A soft, grey or black powder that remains after something has burned, often found after a fire.",
+        "example": "The campfire left a pile of ash on the ground.",
+        "note": "Ash is an uncountable noun, which means it does not have a plural form. You would say \"some ash\" or \"a pile of ash\" instead of \"ashs.\" It refers to the fine powder that remains after something, like wood, has burned.",
+        "synonyms": [
+          "residue",
+          "remains",
+          "cinders",
+          "dust",
+          "powder",
+          "soot",
+          "debris"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A grey or black powder that is left after something, like wood or coal, has burned.",
+        "example": "After the volcano erupted, the sky was filled with ash.",
+        "note": "Ash is a noun that refers to the fine powdery residue left after something has burned. It is often used in contexts related to fire, such as volcanic eruptions or the burning of wood. When using \"ash\" in a sentence, remember that it is an uncountable noun, so you do not say \"two ashes\" but rather \"some ash\" or \"a lot of ash.\"",
+        "synonyms": [
+          "dust",
+          "residue",
+          "powder",
+          "cinders",
+          "soot",
+          "remains",
+          "debris"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To remove the burnt part of a cigarette by tapping it to let the ashes fall away.",
+        "example": "They decided to ash the cigarette before entering the building.",
+        "note": "When using \"ash\" as a verb, it means to remove the ash from a cigarette or similar item. It is often used in informal contexts. Remember to use it in the correct tense based on the subject, for example: \"I ashed the cigarette\" (past tense) or \"Please ash it\" (imperative).",
+        "synonyms": [
+          "discard extinguish dump dispose"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ask",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "Sure! Please provide the word you'd like me to render phonetically."
+    },
+    "wordFamily": [
+      "asking",
+      "asked",
+      "asks",
+      "asker",
+      "askable"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To say something in order to get information or to request something from someone.",
+        "example": "I will ask her for help.",
+        "note": "When using \"ask\" in a sentence, remember that it is often followed by a person (the one you are asking) and what you want to know or request. For example, \"I will ask her for help.\" Here, \"her\" is the person you are asking, and \"for help\" is what you need. Make sure to use \"ask\" in the correct tense depending on when you are speaking about the action (e.g., \"asked\" for past, \"asking\" for present continuous).",
+        "synonyms": [
+          "inquire",
+          "request",
+          "question",
+          "solicit",
+          "seek",
+          "demand",
+          "call for",
+          "appeal to",
+          "probe",
+          "quiz"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To say something in order to get information or to request something from someone.",
+        "example": "He asked if we were coming to the party.",
+        "note": "When using \"ask\" in a sentence, remember that it often requires a question or request. You can say \"ask someone\" to indicate who you are speaking to, and \"ask for something\" to indicate what you want. For example, \"She asked me for help.\" Also, the verb \"ask\" is usually followed by a question word (like \"if,\" \"what,\" or \"where\") when you want to know something. For example, \"He asked if I was free.\"",
+        "synonyms": [
+          "inquire",
+          "question",
+          "request",
+          "query",
+          "solicit",
+          "demand",
+          "seek",
+          "probe",
+          "interrogate",
+          "call for"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To say something in order to get information or to request something from someone.",
+        "example": "Can I ask you a question?",
+        "note": "When using \"ask\" in a sentence, remember that it is often followed by a question word (like \"what,\" \"where,\" or \"why\") or a direct object (the person you are asking). For example, you can say, \"I will ask her a question\" or \"Can I ask you where the station is?\" This helps clarify what you are inquiring about.",
+        "synonyms": [
+          "inquire",
+          "question",
+          "query",
+          "request",
+          "solicit",
+          "probe",
+          "interrogate",
+          "seek",
+          "demand",
+          "call for"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To say something in order to get information or to request something from someone.",
+        "example": "They asked for directions to the station.",
+        "note": "When using \"ask\" in a sentence, remember that it is often followed by a question word (like \"what,\" \"where,\" or \"how\") or a noun (like \"for directions\"). For example, you can say \"They asked where the station was\" or \"They asked for directions.\" This helps clarify what information is being requested.",
+        "synonyms": [
+          "inquire request question seek solicit demand"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To say something in order to get information or to request something from someone.",
+        "example": "She asked him to turn down the music.",
+        "note": "When using \"ask\" in a sentence, remember that it is often followed by a person (the one you are asking) and then the question or request. For example, \"She asked him what time it was.\" You can also use \"ask for\" when you want something specific, like \"He asked for a glass of water.\"",
+        "synonyms": [
+          "request",
+          "inquire",
+          "question",
+          "solicit",
+          "demand",
+          "seek",
+          "appeal",
+          "petition",
+          "urge",
+          "call for"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "awe",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "aw"
+    },
+    "wordFamily": [
+      "awe-inspiring",
+      "awesome",
+      "awestruck",
+      "awesomely",
+      "awesomeness"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A feeling of great respect and wonder, often mixed with fear or admiration, usually caused by something very impressive or powerful.",
+        "example": "She looked at the ancient ruins in awe.",
+        "note": "When using \"awe\" in a sentence, it often describes a feeling of deep respect or admiration, usually mixed with wonder. It is commonly used with the preposition \"in,\" as in \"in awe of.\" Remember that \"awe\" is an uncountable noun, so you do not say \"awe's\" or \"awe's.\" Instead, you can say \"a feeling of awe.\"",
+        "synonyms": [
+          "wonder",
+          "amazement",
+          "astonishment",
+          "admiration",
+          "reverence",
+          "respect",
+          "marvel",
+          "dread",
+          "fear",
+          "veneration"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make someone feel very impressed or amazed.",
+        "example": "The magician awed the audience with his tricks.",
+        "note": "When using \"awed\" as a verb, remember that it often describes a strong feeling of respect or amazement. It is usually followed by a noun, such as \"the audience\" or \"the crowd.\" You can use it in the past tense (\"awed\") or present tense (\"awe\"). For example, \"The performance awed everyone.\"",
+        "synonyms": [
+          "amaze",
+          "astonish",
+          "astound",
+          "impress",
+          "overwhelm",
+          "dazzle",
+          "stun",
+          "captivate",
+          "enchant",
+          "fascinate"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bad",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "bad"
+    },
+    "wordFamily": [
+      "badly",
+      "worse",
+      "worst",
+      "badness",
+      "baddie",
+      "baddish"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Not good; unpleasant or of poor quality.",
+        "example": "The weather is bad today.",
+        "note": "When using \"bad\" to describe something, it often indicates that it is of poor quality or unpleasant. Remember that \"bad\" is an adjective, so it should be used before a noun (e.g., \"bad weather\") or after a linking verb (e.g., \"The weather is bad\"). In informal speech, you might hear \"bad\" used in phrases like \"bad news\" or \"bad idea,\" which also convey negativity.",
+        "synonyms": [
+          "poor",
+          "unpleasant",
+          "terrible",
+          "awful",
+          "dreadful",
+          "nasty",
+          "unfavorable",
+          "disagreeable",
+          "harsh",
+          "inclement"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Not good; causing harm or having a negative effect.",
+        "example": "He has a bad habit of biting his nails.",
+        "note": "When using \"bad\" to describe something negative, remember that it often refers to qualities or behaviours that are undesirable. It can be used in various contexts, such as habits, feelings, or situations. For example, \"bad weather\" means unpleasant weather, and \"bad manners\" refers to impolite behaviour. In informal speech, \"bad\" can also mean \"good\" in a positive way, especially in slang, but be careful with this usage as it can be confusing.",
+        "synonyms": [
+          "poor",
+          "harmful",
+          "detrimental",
+          "negative",
+          "undesirable",
+          "unpleasant",
+          "wicked",
+          "faulty",
+          "inferior",
+          "substandard"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Not good; of poor quality or standard.",
+        "example": "She received a bad grade on her exam.",
+        "note": "When using \"bad\" to describe something negative, remember that it often refers to quality or performance. For example, you can say \"bad weather\" to indicate unpleasant conditions or \"bad behaviour\" to describe actions that are not acceptable. In informal contexts, \"bad\" can also mean \"good\" (e.g., \"That movie was bad!\" meaning it was great), but this usage is more common in slang. Always consider the context to ensure your meaning is clear.",
+        "synonyms": [
+          "poor",
+          "unsatisfactory",
+          "subpar",
+          "inadequate",
+          "deficient",
+          "terrible",
+          "awful",
+          "dreadful",
+          "inferior",
+          "unacceptable"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Not good; showing a lack of kindness or respect towards others.",
+        "example": "It's bad manners to interrupt someone while they are speaking.",
+        "note": "When using \"bad\" to describe behaviour, it often refers to something that is not acceptable or polite. For example, saying \"bad manners\" means that the behaviour is rude or disrespectful. Remember to use \"bad\" with nouns to describe negative qualities, like \"bad behaviour\" or \"bad attitude.\"",
+        "synonyms": [
+          "poor",
+          "rude",
+          "discourteous",
+          "impolite",
+          "ungracious",
+          "disrespectful",
+          "offensive",
+          "inconsiderate"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Not good; of poor quality or unpleasant.",
+        "example": "The movie was so bad that I fell asleep.",
+        "note": "When using \"bad\" to describe something negatively, remember that it often conveys a strong opinion. It's commonly used in informal contexts, like conversations or reviews. For example, you might say, \"The food was bad,\" to express disappointment. In more formal writing, consider using alternatives like \"poor\" or \"unsatisfactory\" for a more professional tone.",
+        "synonyms": [
+          "awful",
+          "terrible",
+          "dreadful",
+          "poor",
+          "subpar",
+          "atrocious",
+          "lousy",
+          "disappointing",
+          "unsatisfactory",
+          "horrendous"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bag",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "bag"
+    },
+    "wordFamily": [
+      "baggage",
+      "baggy",
+      "bagged",
+      "bagging",
+      "bagman",
+      "handbag",
+      "backpack",
+      "tote",
+      "satchel"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A container made of flexible material, often with handles, used for carrying things.",
+        "example": "She carried her groceries in a reusable bag.",
+        "note": "A \"bag\" is a flexible container used for carrying things. In British English, you might hear \"carrier bag\" when referring to a plastic or reusable bag used for shopping. Remember to use \"bags\" for the plural form when talking about more than one, like \"I have three bags.\"",
+        "synonyms": [
+          "sack",
+          "pouch",
+          "tote",
+          "satchel",
+          "backpack",
+          "handbag",
+          "purse",
+          "container",
+          "receptacle",
+          "carryall"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To take or collect something, often to save it for later use.",
+        "example": "He decided to bag the last piece of cake for later.",
+        "note": "When using \"bag\" as a verb, it means to take or secure something for yourself, often for later use. It is commonly used in informal contexts. Remember to use it with an object, like \"bag the cake\" or \"bag a seat.\" This verb is often used in British English, especially in casual conversations.",
+        "synonyms": [
+          "capture",
+          "secure",
+          "obtain",
+          "acquire",
+          "collect",
+          "take",
+          "grab",
+          "snatch"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ban",
+    "level": {
+      "rank": 4
+    },
+    "phonetics": {
+      "simplified": "ban"
+    },
+    "wordFamily": [
+      "banned",
+      "banning",
+      "banishment",
+      "banter",
+      "banjo",
+      "band",
+      "bandit",
+      "banner"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To officially say that something is not allowed.",
+        "example": "The school decided to ban mobile phones during classes.",
+        "note": "When using \"ban\" as a verb, it often takes an object (what is being banned) and can be followed by \"from\" to indicate where the ban applies. For example, you can say, \"The school decided to ban mobile phones from the classroom.\" Remember that \"ban\" is a strong word, meaning something is not allowed at all, so use it carefully in your sentences.",
+        "synonyms": [
+          "prohibit",
+          "forbid",
+          "restrict",
+          "bar",
+          "disallow",
+          "exclude",
+          "interdict",
+          "prevent",
+          "outlaw",
+          "veto"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A rule that stops people from doing something, like smoking in certain places.",
+        "example": "There is a ban on smoking in public places.",
+        "note": "A \"ban\" is a rule that stops people from doing something. It is often used in formal contexts, like laws or regulations. When you use \"ban,\" you can say \"a ban on\" followed by the activity that is not allowed, such as \"a ban on smoking.\" Remember to use \"ban\" with the preposition \"on\" to show what is prohibited.",
+        "synonyms": [
+          "prohibition",
+          "restriction",
+          "embargo",
+          "interdict",
+          "injunction",
+          "bar",
+          "veto",
+          "limitation",
+          "constraint"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bar",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "bahr"
+    },
+    "wordFamily": [
+      "barrier",
+      "barista",
+      "barred",
+      "barrow",
+      "bartering",
+      "baroque",
+      "barbell",
+      "barmaid",
+      "baritone",
+      "barometric"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A place in a pub or restaurant where drinks are served.",
+        "example": "She ordered a drink at the bar.",
+        "note": "When using \"bar\" to refer to a place where drinks are served, remember that it is a countable noun. This means you can say \"a bar\" or \"two bars.\" In conversation, you might hear phrases like \"Let's go to the bar\" or \"There are many bars in the city.\"",
+        "synonyms": [
+          "pub",
+          "tavern",
+          "saloon",
+          "lounge",
+          "watering hole",
+          "bistro",
+          "cantina",
+          "nightclub",
+          "dive"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A long, flat piece of something, often food, that is usually wrapped.",
+        "example": "He placed the chocolate bar on the table.",
+        "note": "A \"bar\" can refer to a long, solid piece of something, like chocolate or metal. In British English, it is often used to describe a sweet treat, like a chocolate bar. When using \"bar\" in a sentence, remember it is a countable noun, so you can say \"one bar\" or \"two bars.\"",
+        "synonyms": [
+          "stick",
+          "block",
+          "slab",
+          "piece",
+          "chunk"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To prevent someone from entering a place or to stop something from happening.",
+        "example": "They decided to bar entry to the event.",
+        "note": "When using \"bar\" as a verb, it means to prevent someone from entering a place or participating in something. It is often followed by a noun that indicates what is being restricted, such as \"entry\" or \"access.\" For example, you can say, \"They decided to bar entry to the event.\" Remember that \"bar\" can also be used in a more general sense to mean to prohibit or stop something from happening.",
+        "synonyms": [
+          "forbid",
+          "prohibit",
+          "exclude",
+          "prevent",
+          "block",
+          "hinder",
+          "restrict",
+          "deny"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "The place in a court where lawyers stand to speak to the judge and jury.",
+        "example": "The lawyer presented his case at the bar.",
+        "note": "In this context, \"bar\" refers to the legal profession or the place where lawyers work, often in a courtroom. It is important to note that \"the bar\" is a collective term for all lawyers who are qualified to practice law. When using this term, remember that it is often capitalised as \"the Bar\" when referring to the legal profession in a formal sense.",
+        "synonyms": [
+          "court",
+          "tribunal",
+          "bench",
+          "law",
+          "legal profession",
+          "judiciary"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A long, straight piece of metal or wood that is used for support or to hold things up, often found in gyms for exercises.",
+        "example": "The gym has a pull-up bar for exercises.",
+        "note": "A \"bar\" can refer to a long, solid piece of material, often used in fitness or sports. When using it in a sentence, remember that it can also mean a place where drinks are served, so make sure the context is clear. For example, \"The gym has a pull-up bar\" clearly indicates it's for exercise, while \"We went to the bar for drinks\" shows it's a social place.",
+        "synonyms": [
+          "pole",
+          "rod",
+          "beam",
+          "rail",
+          "support",
+          "frame"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bat",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "bat"
+    },
+    "wordFamily": [
+      "batter",
+      "batting",
+      "batty",
+      "batman",
+      "batlike",
+      "batten",
+      "batwing"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A small flying animal that is active at night and has wings made of skin.",
+        "example": "The bat flew out of the cave at dusk.",
+        "note": "When using \"bat\" to refer to the flying mammal, remember that it is a countable noun. This means you can say \"one bat,\" \"two bats,\" etc. In sentences, you can use it in different forms, like \"bats\" for plural or \"batting\" when talking about the action of flying or moving quickly.",
+        "synonyms": [
+          "flying mammal",
+          "chiropteran"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A long, thin piece of wood used in sports like cricket to hit a ball.",
+        "example": "He hit the ball with a cricket bat.",
+        "note": "A \"bat\" is a noun that refers to a piece of equipment used in sports like cricket or baseball to hit a ball. When using it in a sentence, remember that it is a countable noun, so you can say \"one bat\" or \"two bats.\" In British English, \"bat\" is commonly associated with cricket, while in American English, it is often linked to baseball.",
+        "synonyms": [
+          "club",
+          "stick",
+          "paddle",
+          "racket",
+          "batten"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To hit a ball with a bat in a game, especially in cricket or baseball.",
+        "example": "She decided to bat first in the cricket match.",
+        "note": "When using \"bat\" as a verb in the context of sports, it means to hit a ball with a bat. In cricket, the player who bats tries to score runs by hitting the ball bowled by the bowler. Remember that \"bat\" can also be used in other sports, like baseball, but the rules and context may differ.",
+        "synonyms": [
+          "strike",
+          "hit",
+          "knock",
+          "whack",
+          "smash",
+          "wallop"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bay",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "bay"
+    },
+    "wordFamily": [
+      "bayed",
+      "baying",
+      "bayou",
+      "bayleaf",
+      "bayonet"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A bay is a wide, curved area of water where the land curves inwards, often found along a coast or river.",
+        "example": "The dog barked at the bay of the river.",
+        "note": "When using \"bay\" to refer to a body of water, remember that it often describes a part of a river or a coastal area that is partly enclosed by land. In sentences, it can be helpful to specify what type of bay you are talking about, such as \"the bay of the river\" or \"the bay by the sea,\" to provide clarity.",
+        "synonyms": [
+          "inlet cove estuary creek lagoon harbor"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A bay is a large area of water that is partly surrounded by land, often where boats can dock or where people can swim and relax.",
+        "example": "We watched the boats in the bay during our holiday.",
+        "note": "A \"bay\" is a body of water that is partly surrounded by land. When using \"bay\" in a sentence, remember that it often describes a calm area where boats can dock or where people can enjoy the scenery. You can use it in phrases like \"the bay is beautiful\" or \"we sailed across the bay.\"",
+        "synonyms": [
+          "inlet cove harbor lagoon estuary fjord"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make a loud, deep sound, often like a howl, especially when calling out or expressing strong emotion.",
+        "example": "The wolves began to bay at the moon.",
+        "note": "When using \"bay\" as a verb, it often describes a loud, deep howl or bark, especially by dogs or wolves. It is commonly used in contexts involving animals expressing strong emotions, such as excitement or distress. Remember to use it in sentences where the subject is an animal, and it usually follows the pattern \"subject + bay + (at) + object\" (e.g., \"The dogs bayed at the intruder\").",
+        "synonyms": [
+          "howl bark wail yowl cry call"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A reddish-brown colour, often used to describe horses or clothing.",
+        "example": "She wore a beautiful bay dress to the party.",
+        "note": "When using \"bay\" to describe a colour, it typically refers to a reddish-brown shade, often associated with horses. In fashion, it can describe clothing in that colour. Remember to use it as an adjective before the noun, like \"bay dress\" or \"bay horse.\"",
+        "synonyms": [
+          "chestnut",
+          "auburn",
+          "mahogany",
+          "brown"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bed",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "bed"
+    },
+    "wordFamily": [
+      "bedding",
+      "bedded",
+      "bedrock",
+      "bedspread",
+      "bedbug",
+      "bedlam",
+      "bedfellow",
+      "bedchamber",
+      "bedpost",
+      "bedframe"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A piece of furniture that you sleep on, usually with a mattress and sheets.",
+        "example": "She made the bed before leaving the house.",
+        "note": "When using \"bed\" as a noun, remember that it refers to a piece of furniture for sleeping. In British English, it is common to say \"make the bed,\" which means to arrange the sheets and blankets neatly. You can also use \"bed\" in phrases like \"go to bed\" (to sleep) or \"get out of bed\" (to rise in the morning).",
+        "synonyms": [
+          "bunk",
+          "cot",
+          "mattress",
+          "platform",
+          "sleeping place",
+          "berth",
+          "pallet",
+          "divan",
+          "futon",
+          "sleeper"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A piece of furniture that you sleep on, usually with a mattress and sheets.",
+        "example": "He lay down on the bed to take a nap.",
+        "note": "When using \"bed\" in a sentence, remember that it is a countable noun. This means you can say \"one bed,\" \"two beds,\" etc. You can also use it with articles like \"a\" or \"the.\" For example, \"I need a bed\" or \"The bed is comfortable.\"",
+        "synonyms": [
+          "mattress",
+          "cot",
+          "bunk",
+          "platform",
+          "divan",
+          "futon",
+          "pallet",
+          "sleeping bag",
+          "berth",
+          "chaise"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A flat area of soil where flowers or plants are grown.",
+        "example": "The flowers were planted in a beautiful flower bed.",
+        "note": "A \"bed\" can refer to a specific area where plants grow, like a flower bed. In this context, it is often used with words like \"in,\" \"of,\" or \"for\" to describe its purpose or contents. For example, you can say \"a bed of roses\" or \"a bed for vegetables.\" Remember to use \"bed\" in a way that clearly shows what is being planted or grown there.",
+        "synonyms": [
+          "plot",
+          "garden",
+          "patch",
+          "border",
+          "flowerbed",
+          "planting area"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To plant something in the ground so it can grow.",
+        "example": "They decided to bed the plants in the garden.",
+        "note": "When using \"bed\" as a verb, it means to plant something in the ground or to prepare a space for plants. It is often used in gardening contexts. Remember to use it in the correct tense depending on the time you are talking about, for example, \"They bedded the plants last week\" for past actions.",
+        "synonyms": [
+          "plant",
+          "sow",
+          "set",
+          "place",
+          "position"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bee",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "bee"
+    },
+    "wordFamily": [
+      "honey",
+      "swarm",
+      "pollinate",
+      "pollinator",
+      "beehive",
+      "beekeeper",
+      "buzzing",
+      "nectar",
+      "apiary",
+      "drone",
+      "queen bee",
+      "larvae",
+      "colony"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A small flying insect that is usually yellow and black, known for making honey and for pollinating flowers.",
+        "example": "The bee buzzed around the flowers in the garden.",
+        "note": "A bee is a small flying insect known for its role in pollinating flowers and producing honey. When using \"bee\" in a sentence, remember that it is a singular noun. If you want to talk about more than one, use \"bees.\" For example, \"The bees buzzed around the flowers.\"",
+        "synonyms": [
+          "honeybee bumblebee drone"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A competition where people take turns spelling words aloud, and the last person remaining who spells correctly wins.",
+        "example": "We attended a charity bake sale and a spelling bee at the school.",
+        "note": "A spelling bee is a competition where participants are asked to spell words aloud. It is often held in schools and can be a fun way to improve spelling skills. Remember to pronounce \"bee\" like \"bee\" (the insect) and not like \"be\" (the verb).",
+        "synonyms": [
+          "contest",
+          "competition",
+          "tournament"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "beg",
+    "level": {
+      "rank": 4
+    },
+    "phonetics": {
+      "simplified": "bɛg"
+    },
+    "wordFamily": [
+      "beggar",
+      "begging",
+      "begged",
+      "beggary"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To ask someone very seriously and with strong feelings for something you need or want, often because you are in a difficult situation.",
+        "example": "She had to beg for help after losing her wallet.",
+        "note": "When using \"beg,\" it often implies a sense of desperation or urgency. It is usually followed by \"for\" when asking for something, as in \"beg for help\" or \"beg for forgiveness.\" Remember to use it in contexts where someone is pleading or asking earnestly for assistance or mercy.",
+        "synonyms": [
+          "plead implore beseech request solicit urge crave ask entreat"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To ask someone very strongly and with a lot of emotion for something you want, often because you really need it or want it badly.",
+        "example": "He begged his parents to let him go to the party.",
+        "note": "When using \"beg\" in a sentence, it is often followed by a person (the one being asked) and an infinitive verb (to + verb) to indicate what is being requested. For example, \"She begged her teacher to give her more time.\" Remember to use it in contexts where someone is asking for something very urgently or with strong emotion.",
+        "synonyms": [
+          "implored",
+          "pleaded",
+          "beseeched",
+          "entreated",
+          "requested",
+          "urged",
+          "petitioned",
+          "asked",
+          "solicited"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To ask someone for something in a very serious or emotional way, often because you really need it.",
+        "example": "The dog looked up at me with begging eyes.",
+        "note": "When using \"beg\" in a sentence, it often describes asking for something in a very emotional or desperate way. It can be followed by a direct object (the thing you are asking for) and sometimes by \"to\" plus a verb. For example, \"She begged him for help\" or \"He begged to stay longer.\" Remember to use it in contexts where someone is pleading or showing strong desire.",
+        "synonyms": [
+          "plead",
+          "beseech",
+          "implore",
+          "entreat",
+          "solicit",
+          "crave",
+          "request",
+          "urge",
+          "ask",
+          "petition"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bet",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "bet"
+    },
+    "wordFamily": [
+      "wager",
+      "betting",
+      "bettor",
+      "betted",
+      "betters",
+      "bets",
+      "betroth",
+      "betrothal"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To say that you are sure something will happen or that someone will do something, often used when making a challenge or a guess.",
+        "example": "I bet you can't finish that book in a week.",
+        "note": "When using \"bet\" as a verb, it often expresses a strong belief or confidence about something happening. It can be followed by a clause (e.g., \"that you can't finish\") or an object (e.g., \"£10\"). In informal contexts, it can also be used to agree with someone (e.g., \"I bet!\"). Remember to use it in a friendly tone, as it can imply a challenge or playful competition.",
+        "synonyms": [
+          "wager",
+          "stake",
+          "gamble",
+          "risk",
+          "challenge",
+          "predict",
+          "assert",
+          "suppose"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "An amount of money that someone risks losing on the outcome of a game or event, hoping to win more money if they are correct.",
+        "example": "He placed a bet on the horse race.",
+        "note": "A bet is an agreement where someone risks money or something of value on the outcome of an event, like a race or a game. In British English, it is common to say \"to place a bet\" or \"to make a bet.\" Remember, betting can be legal or illegal depending on the rules in your area, so always check local laws.",
+        "synonyms": [
+          "wager",
+          "stake",
+          "gamble",
+          "risk",
+          "investment",
+          "ante",
+          "punt",
+          "speculation"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bid",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "bid"
+    },
+    "wordFamily": [
+      "bidding",
+      "bidder",
+      "bidness"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To offer a certain amount of money for something, especially at an auction.",
+        "example": "I will bid £100 for that painting.",
+        "note": "When using \"bid\" in the context of offering a price, it is often followed by a specific amount of money. You can say \"bid £100\" or \"bid for the painting.\" Remember that \"bid\" can also be used in different tenses, such as \"bidding\" for the present continuous or \"bade\" for the past tense, but in everyday conversation, you will mostly use \"bid\" and \"bidding.\"",
+        "synonyms": [
+          "offer",
+          "propose",
+          "tender",
+          "submit",
+          "auction",
+          "stake",
+          "quote"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "An offer of a certain amount of money to buy something, especially at an auction.",
+        "example": "She made a bid at the auction.",
+        "note": "A bid is an offer of a certain amount of money you are willing to pay for something, especially at an auction. When you make a bid, you are competing with others to buy an item. Remember to use the phrase \"make a bid\" when you want to say that you are offering a price.",
+        "synonyms": [
+          "offer",
+          "proposal",
+          "tender",
+          "attempt",
+          "effort",
+          "proposition"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "big",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "big"
+    },
+    "wordFamily": [
+      "bigger",
+      "biggest",
+      "bigly",
+      "bigness"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Of a large size or greater than average.",
+        "example": "He has a big house.",
+        "note": "When using \"big\" to describe something, it usually refers to size, but it can also imply importance or significance in certain contexts. For example, \"He has a big responsibility\" means he has an important responsibility. Remember to use \"bigger\" for the comparative form (e.g., \"This house is bigger than that one\") and \"biggest\" for the superlative form (e.g., \"This is the biggest house in the neighbourhood\").",
+        "synonyms": [
+          "large",
+          "huge",
+          "enormous",
+          "vast",
+          "massive",
+          "gigantic",
+          "substantial",
+          "considerable",
+          "ample",
+          "extensive"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Large in size, amount, or degree; significant or important.",
+        "example": "She made a big mistake.",
+        "note": "When using \"big\" to describe something, it often means large in size, but it can also refer to importance or significance. For example, in the phrase \"a big mistake,\" it means the mistake is serious or has major consequences. Remember to use \"big\" with nouns to clarify what you are describing, such as \"big problem\" or \"big decision.\"",
+        "synonyms": [
+          "large",
+          "huge",
+          "significant",
+          "considerable",
+          "substantial",
+          "major",
+          "vast",
+          "enormous",
+          "immense",
+          "great"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Large in size, amount, or importance; significant or impressive.",
+        "example": "They have big plans for the future.",
+        "note": "When using \"big\" to describe something, it often means large in size, but it can also refer to importance or significance. For example, \"big plans\" means important or ambitious plans. Remember to use \"big\" before the noun it describes, like in \"big house\" or \"big decision.\"",
+        "synonyms": [
+          "large",
+          "huge",
+          "vast",
+          "enormous",
+          "substantial",
+          "considerable",
+          "massive",
+          "grand",
+          "extensive",
+          "significant"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Large in size or amount; greater than normal.",
+        "example": "The elephant is a big animal.",
+        "note": "When using \"big\" to describe something, remember that it often refers to size, but it can also imply importance or significance. For example, you might say, \"She made a big decision,\" meaning it was an important choice. In spoken English, stress the word \"big\" to emphasize its meaning, especially when comparing sizes, like \"This box is bigger than that one.\"",
+        "synonyms": [
+          "large",
+          "huge",
+          "enormous",
+          "gigantic",
+          "massive",
+          "vast",
+          "immense",
+          "substantial",
+          "considerable",
+          "hefty"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Large in size, amount, or degree; significant or important.",
+        "example": "He is a big fan of football.",
+        "note": "When using \"big\" to describe someone's enthusiasm, like in \"He is a big fan of football,\" it means they have a strong interest or passion for it. You can also use \"big\" to describe other things, such as \"big problem\" or \"big decision,\" to indicate importance or significance. Remember, \"big\" is informal and commonly used in everyday conversation.",
+        "synonyms": [
+          "large",
+          "huge",
+          "great",
+          "substantial",
+          "immense",
+          "considerable",
+          "vast",
+          "enormous",
+          "massive",
+          "significant"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bin",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "bin"
+    },
+    "wordFamily": [
+      "container",
+      "receptacle",
+      "storage",
+      "refuse",
+      "waste",
+      "disposal",
+      "landfill",
+      "recycling",
+      "trash",
+      "garbage"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A container used for storing waste or rubbish.",
+        "example": "Please put the rubbish in the bin.",
+        "note": "A \"bin\" is a container used for storing waste or rubbish. In British English, it is commonly used to refer to any type of trash container, such as a dustbin or recycling bin. When using the word in a sentence, remember to use \"in the bin\" to indicate that something is being placed inside it. For example, \"Please throw the paper in the bin.\"",
+        "synonyms": [
+          "container",
+          "receptacle",
+          "basket",
+          "trash can",
+          "wastebasket",
+          "garbage can",
+          "bucket",
+          "box",
+          "drum",
+          "vessel"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A container used for storing things, often with a lid, that helps keep items organized and tidy.",
+        "example": "He stored his old clothes in a storage bin.",
+        "note": "A \"bin\" is a container used for storing things, often found in homes or workplaces. It can be used for various items, such as clothes, toys, or food. When using \"bin\" in a sentence, remember that it is a countable noun, so you can say \"one bin\" or \"two bins.\"",
+        "synonyms": [
+          "container",
+          "box",
+          "receptacle",
+          "storage",
+          "chest",
+          "crate",
+          "basket",
+          "caddy",
+          "drum",
+          "tote"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To throw something away or dispose of it, especially because it is no longer needed or wanted.",
+        "example": "I need to bin these old papers.",
+        "note": "When using \"bin\" as a verb, it means to throw something away or to discard it. It is often used in informal contexts. For example, you might say, \"I will bin the broken toys.\" Remember that \"bin\" is commonly used in British English, while in American English, people might say \"throw away\" instead.",
+        "synonyms": [
+          "discard",
+          "dispose",
+          "throw away",
+          "toss",
+          "get rid of",
+          "eliminate",
+          "junk",
+          "scrap",
+          "dump"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bit",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "bit: bit"
+    },
+    "wordFamily": [
+      "bitten",
+      "biting",
+      "biter",
+      "bites",
+      "bitmap",
+      "bitwise"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A small piece or amount of something.",
+        "example": "Can I have a bit of cake?",
+        "note": "\"Bit\" is often used informally to mean a small amount of something. You can use it in both positive and negative contexts, such as \"I want a bit more\" or \"I don't want a bit of that.\" Remember that it is usually used with uncountable nouns (like cake or water) rather than countable nouns (like apples or books).",
+        "synonyms": [
+          "piece",
+          "portion",
+          "slice",
+          "fragment",
+          "morsel",
+          "crumb",
+          "chunk",
+          "tidbit",
+          "scrap",
+          "segment"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A small amount of something or a short period of time.",
+        "example": "He only stayed for a bit before leaving.",
+        "note": "A \"bit\" is often used informally to mean a small amount of time or a short period. You can use it in sentences like \"I'll be there in a bit,\" which means you will arrive soon. It's a casual way to refer to time, so it's best used in informal conversations.",
+        "synonyms": [
+          "piece",
+          "portion",
+          "fragment",
+          "segment",
+          "part",
+          "little",
+          "smidgen",
+          "morsel",
+          "trace",
+          "speck"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To use your teeth to press down on something.",
+        "example": "The dog bit my shoe.",
+        "note": "When using \"bit\" as a verb, remember that it is the past tense of \"bite.\" You can use it to describe an action that happened in the past. For example, \"Yesterday, the dog bit my shoe.\" Make sure to use \"bit\" when talking about something that has already happened, not something happening now.",
+        "synonyms": [
+          "chewed",
+          "gnawed",
+          "nipped",
+          "clamped",
+          "sank",
+          "seized",
+          "grabbed"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A small amount of something.",
+        "example": "She gave me a bit of advice.",
+        "note": "\"Bit\" is often used to refer to a small amount of something. In sentences, it is usually followed by \"of\" when describing what the small amount is related to, like \"a bit of cake\" or \"a bit of help.\" Remember, it is informal, so it's best used in casual conversations rather than formal writing.",
+        "synonyms": [
+          "piece",
+          "morsel",
+          "fragment",
+          "portion",
+          "snippet",
+          "tidbit",
+          "smidgen",
+          "dash",
+          "hint",
+          "suggestion"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A small amount or piece of something.",
+        "example": "I need a bit of time to think.",
+        "note": "\"Bit\" is often used informally to mean a small amount or a little. You can use it in sentences like \"Can I have a bit of cake?\" or \"I'll be there in a bit.\" Remember, it's more common in spoken English and casual writing.",
+        "synonyms": [
+          "piece",
+          "portion",
+          "amount",
+          "fragment",
+          "segment",
+          "slice",
+          "smidgen",
+          "touch",
+          "hint",
+          "dash"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bow",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "boh"
+    },
+    "wordFamily": [
+      "bowing",
+      "bowed",
+      "bowman",
+      "bowstring",
+      "bowler",
+      "bowline",
+      "bowtie"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A curved shape made by bending forward at the waist, often done to show respect or gratitude, especially after performing.",
+        "example": "He took a bow after his performance.",
+        "note": "A bow is a gesture of respect or gratitude, often made by bending at the waist. It is commonly used in performances, such as theatre or music, to acknowledge the audience's applause. Remember to pronounce it like \"bough\" (rhymes with \"cow\"), not like \"bow\" (as in the front of a ship).",
+        "synonyms": [
+          "curtsy",
+          "obeisance",
+          "genuflection",
+          "salutation",
+          "homage"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To bend your body forward, usually at the waist, as a sign of respect or greeting.",
+        "example": "She had to bow her head in respect.",
+        "note": "When using \"bow\" as a verb, remember that it often describes a gesture of respect or greeting. It can be used in both formal and informal contexts. Make sure to pronounce it as /baʊ/, which rhymes with \"how.\" In sentences, it usually follows the subject and can be used with or without an object, like in \"She bowed\" or \"He bowed his head.\"",
+        "synonyms": [
+          "bend",
+          "lower",
+          "incline",
+          "nod",
+          "dip",
+          "submit",
+          "yield"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A curved piece of wood or other material with a string attached, used for shooting arrows.",
+        "example": "He shot the arrow from his bow.",
+        "note": "A bow is a weapon used for shooting arrows. It is important to remember that \"bow\" can also mean to bend forward at the waist as a sign of respect, but in this context, it refers specifically to the weapon. When using \"bow\" in a sentence, it often appears with words like \"string\" (the part that is pulled to shoot the arrow) and \"arrow\" (the projectile shot from the bow).",
+        "synonyms": [
+          "arch",
+          "curve",
+          "bend"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To bend your body forward at the waist as a sign of respect or greeting.",
+        "example": "They will bow to the audience at the end of the show.",
+        "note": "When using \"bow\" as a verb, remember that it often describes a gesture of respect or greeting. It is usually followed by the preposition \"to,\" as in \"bow to someone.\" Make sure to pronounce it with a long \"o\" sound, like \"bough,\" to distinguish it from the noun \"bow\" (the object used to shoot arrows), which has a different pronunciation.",
+        "synonyms": [
+          "bend",
+          "incline",
+          "stoop",
+          "dip",
+          "nod",
+          "genuflect",
+          "curtsy",
+          "salute"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "box",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "boks"
+    },
+    "wordFamily": [
+      "boxing",
+      "boxed",
+      "boxer",
+      "boxy",
+      "boxful",
+      "boxlike"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A container, usually made of cardboard or wood, used for storing or carrying things.",
+        "example": "She put the old toys in a cardboard box.",
+        "note": "A box is a container, usually with flat sides and a lid, used for storing or transporting items. In sentences, it can be used with words like \"in,\" \"on,\" or \"under\" to describe where it is located. For example, \"The book is in the box.\" Remember to use \"boxes\" when talking about more than one, as in \"There are three boxes.\"",
+        "synonyms": [
+          "container",
+          "case",
+          "crate",
+          "package",
+          "carton",
+          "chest",
+          "bin",
+          "trunk",
+          "receptacle",
+          "enclosure"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To put items into a box to protect them and make them easier to carry or send.",
+        "example": "He will box the items carefully for shipping.",
+        "note": "When using \"box\" as a verb, it means to put items into a box for storage or transport. Remember to use it with an object, like \"box the items\" or \"box the gifts.\" You can also use it in different tenses, such as \"boxed\" for the past or \"boxing\" for the present continuous. For example, \"She is boxing the books now.\"",
+        "synonyms": [
+          "package",
+          "crate",
+          "bundle",
+          "wrap",
+          "enclose",
+          "contain",
+          "secure"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "boy",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "boi"
+    },
+    "wordFamily": [
+      "boyhood",
+      "boyish",
+      "boys",
+      "boyfriends",
+      "boyishness"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A young male child or young man.",
+        "example": "The boy played football in the park.",
+        "note": "When using \"boy,\" remember that it refers specifically to a young male child or teenager. In sentences, it can be used as a subject (e.g., \"The boy is happy.\") or an object (e.g., \"I saw the boy.\"). Make sure to use it in contexts where age is relevant, as it typically describes someone who is not yet an adult.",
+        "synonyms": [
+          "lad",
+          "youth",
+          "lad",
+          "youngster",
+          "child",
+          "teen",
+          "boyhood"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A young male child.",
+        "example": "She has a younger boy who loves to draw.",
+        "note": "When using \"boy,\" remember that it refers specifically to a young male child. In sentences, it is often used with articles like \"a\" or \"the\" (e.g., \"a boy,\" \"the boy\"). You can also use it in plural form as \"boys\" when talking about more than one.",
+        "synonyms": [
+          "lad",
+          "child",
+          "youth",
+          "kid",
+          "youngster",
+          "little boy",
+          "son",
+          "male child"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A young male child or young man.",
+        "example": "The boy in the blue shirt is my brother.",
+        "note": "When using \"boy,\" remember that it refers specifically to a young male child or teenager. In sentences, it often appears with articles like \"a\" or \"the\" (e.g., \"a boy,\" \"the boy\"). You can also use adjectives to describe the boy, such as \"tall,\" \"funny,\" or \"kind.\" This helps to give more information about him.",
+        "synonyms": [
+          "lad",
+          "youth",
+          "lad",
+          "young man",
+          "boyhood",
+          "child",
+          "kid",
+          "minor"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A young male child or young man.",
+        "example": "He was just a boy when he moved to the city.",
+        "note": "When using \"boy,\" remember that it typically refers to a young male child or teenager. In British English, it can also be used informally to refer to a young man. Be mindful of the context, as it can imply different ages depending on the situation. For example, \"He was just a boy\" suggests he was quite young, while \"the boy next door\" might refer to a teenager.",
+        "synonyms": [
+          "lad",
+          "youth",
+          "child",
+          "youngster",
+          "teen",
+          "adolescent",
+          "minor",
+          "fellow",
+          "guy"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bug",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "bug"
+    },
+    "wordFamily": [
+      "insect",
+      "glitch",
+      "error",
+      "pest",
+      "infestation",
+      "buggy",
+      "debugging",
+      "bugged",
+      "bugging",
+      "bugger",
+      "bugged out"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A small insect or creature, often with six legs, that can be found in various places, including homes and gardens.",
+        "example": "I found a bug crawling on the kitchen floor.",
+        "note": "A \"bug\" can refer to a small insect, like a beetle or ant. In everyday conversation, you might also hear \"bug\" used informally to describe a problem in software or technology, such as a glitch in a computer program. When using the word, remember that it can have different meanings depending on the context.",
+        "synonyms": [
+          "insect critter creature pest beetle crawler arthropod"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To annoy or bother someone, especially by asking too many questions or interrupting them.",
+        "example": "Please don't bug me while I'm studying.",
+        "note": "When using \"bug\" as a verb, it means to annoy or bother someone. It is often used in informal contexts. For example, you might say, \"Stop bugging me!\" to tell someone to stop bothering you. Remember to use it in casual conversations, as it may not be appropriate in formal situations.",
+        "synonyms": [
+          "bother annoy irritate pester harass disturb tease"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A mistake or problem in a computer program that causes it to not work correctly.",
+        "example": "The software has a bug that needs fixing.",
+        "note": "A \"bug\" in software refers to an error or flaw that causes it to work incorrectly. When discussing bugs, you can use phrases like \"fix a bug\" or \"report a bug.\" It's common in technology and programming contexts, so you might hear it often in discussions about software development.",
+        "synonyms": [
+          "glitch error flaw defect issue problem"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A strong interest or enthusiasm for something.",
+        "example": "He has a bug for collecting stamps.",
+        "note": "When using \"bug\" in this context, it means a strong interest or passion for something. It is often used informally. For example, you might say, \"She has a bug for photography,\" meaning she really enjoys photography. Remember to use it with \"for\" to indicate what the interest is about.",
+        "synonyms": [
+          "obsession passion fascination enthusiasm craze fixation interest"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bun",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "buhn"
+    },
+    "wordFamily": [
+      "buns",
+      "bunny",
+      "bunting",
+      "bunlike",
+      "bunco",
+      "bunion"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A soft, round piece of bread used to hold food, like a burger or sandwich.",
+        "example": "She ordered a burger with a soft bun.",
+        "note": "A \"bun\" is a type of small, round bread that is often soft and used for sandwiches or burgers. When using \"bun\" in a sentence, remember that it is usually countable, so you can say \"one bun\" or \"two buns.\"",
+        "synonyms": [
+          "roll",
+          "bread",
+          "loaf",
+          "biscuit",
+          "pastry"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A hairstyle where the hair is gathered and tied up into a round shape, usually at the back of the head.",
+        "example": "He wore his hair in a neat bun.",
+        "note": "A \"bun\" is a hairstyle where the hair is gathered and twisted into a round shape, often worn at the back of the head. It can also refer to a type of bread roll. When using the word in a sentence, make sure the context is clear, so the listener knows if you are talking about hair or food. For example, \"She made a delicious bun\" refers to the bread, while \"She tied her hair in a bun\" refers to the hairstyle.",
+        "synonyms": [
+          "knot coil chignon twist updo"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A small, round piece of bread that is often soft and can be sweet or savoury.",
+        "example": "The bakery sells fresh hot cross buns.",
+        "note": "A \"bun\" is a small, round bread roll, often sweet or soft. It can be eaten on its own or used for sandwiches. In British English, \"bun\" can also refer to a type of sweet bread, like a hot cross bun, which is traditionally eaten at Easter. When pronouncing \"bun,\" the 'u' sounds like the 'u' in \"fun.\"",
+        "synonyms": [
+          "roll",
+          "bread",
+          "pastry",
+          "muffin",
+          "scone"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bus",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "buhs"
+    },
+    "wordFamily": [
+      "busing",
+      "bused",
+      "busier",
+      "busiest",
+      "busboy",
+      "busload",
+      "bus station",
+      "bus route",
+      "bus driver",
+      "bus stop"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A large vehicle that carries many passengers along fixed routes, usually for public transport.",
+        "example": "I took the bus to work this morning.",
+        "note": "When using \"bus\" in a sentence, remember that it is a countable noun. This means you can say \"one bus,\" \"two buses,\" etc. In British English, it's common to use \"the bus\" when referring to public transport in general, as in \"I missed the bus.\"",
+        "synonyms": [
+          "coach",
+          "shuttle",
+          "transit",
+          "vehicle",
+          "conveyance"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To take away dirty dishes and utensils from a table after a meal.",
+        "example": "They will bus the dishes after dinner.",
+        "note": "When using \"bus\" as a verb, it means to clear away dishes and utensils from a table after a meal. It is often used in the context of restaurants or dining settings. Remember that it is usually followed by the object (e.g., \"the dishes\") and can be used in different tenses, like \"bussed\" for the past tense.",
+        "synonyms": [
+          "clear",
+          "remove",
+          "take away",
+          "collect",
+          "gather"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "but",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "buht"
+    },
+    "wordFamily": [
+      "however",
+      "yet",
+      "although",
+      "nevertheless",
+      "on the other hand",
+      "except",
+      "still",
+      "nonetheless"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect two ideas that contrast with each other, showing a change in direction or an exception.",
+        "example": "I wanted to go for a walk, but it started to rain.",
+        "note": "When using \"but\" in a sentence, it connects two contrasting ideas. It shows that the second part of the sentence is different or opposite to the first part. For example, in \"I wanted to go for a walk, but it started to rain,\" the first part expresses a desire, while the second part presents a problem that prevents that desire. Remember to use a comma before \"but\" when it connects two complete sentences.",
+        "synonyms": [
+          "yet",
+          "however",
+          "nevertheless",
+          "on the other hand",
+          "still",
+          "although",
+          "though"
+        ]
+      },
+      {
+        "partOfSpeech": "preposition",
+        "definition": "Used to introduce a statement that contrasts with or contradicts what has just been said.",
+        "example": "Everyone was invited, but John.",
+        "note": "When using \"but\" in a sentence, it is important to remember that it introduces a contrast or exception. For example, in the sentence \"Everyone was invited, but John,\" it highlights that John was not included despite everyone else being invited. Make sure to use a comma before \"but\" when it connects two independent clauses (complete sentences). This helps clarify the contrast you are expressing.",
+        "synonyms": [
+          "yet",
+          "however",
+          "nevertheless",
+          "on the other hand",
+          "still",
+          "although",
+          "though"
+        ]
+      },
+      {
+        "partOfSpeech": "adverb",
+        "definition": "Used to introduce a statement that contrasts with or seems to contradict something that has just been said.",
+        "example": "She is smart, but not very experienced.",
+        "note": "Use \"but\" to connect two contrasting ideas in a sentence. It shows a difference or exception between the first part and the second part. For example, in \"She is smart, but not very experienced,\" the first part praises her intelligence, while the second part highlights a limitation. Remember to use a comma before \"but\" when it connects two independent clauses.",
+        "synonyms": [
+          "however",
+          "yet",
+          "nevertheless",
+          "nonetheless",
+          "still",
+          "on the other hand"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "buy",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "bye"
+    },
+    "wordFamily": [
+      "purchase",
+      "buyer",
+      "buying",
+      "bought",
+      "buyout",
+      "buy-in"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To get something by paying money for it.",
+        "example": "I need to buy some groceries for dinner.",
+        "note": "When using \"buy,\" remember that it often requires an object, meaning you need to specify what you are purchasing. For example, you can say \"I need to buy some groceries,\" where \"groceries\" is the object. In questions, you can ask, \"What do you want to buy?\" This helps clarify what you are referring to.",
+        "synonyms": [
+          "purchase",
+          "acquire",
+          "obtain",
+          "procure",
+          "get",
+          "secure",
+          "invest in",
+          "shop for",
+          "take",
+          "pick up"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To get something by paying money for it.",
+        "example": "She decided to buy a new car after her old one broke down.",
+        "note": "When using \"buy,\" remember that it often requires an object, meaning you need to specify what is being bought. For example, you can say \"buy a car,\" \"buy groceries,\" or \"buy a gift.\" In questions or negative sentences, use \"do\" or \"does\" for present tense, like \"Do you buy?\" or \"She doesn't buy.\" In the past tense, it changes to \"bought,\" as in \"She bought a new car.\"",
+        "synonyms": [
+          "purchase",
+          "acquire",
+          "obtain",
+          "procure",
+          "secure",
+          "get",
+          "invest in",
+          "take",
+          "shop for"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To get something by paying money for it.",
+        "example": "He wants to buy a ticket for the concert next week.",
+        "note": "When using \"buy,\" remember that it often requires an object, meaning you need to specify what is being bought. For example, you can say \"buy a ticket\" or \"buy some food.\" In questions, you can ask, \"What do you want to buy?\" This helps clarify what you are discussing.",
+        "synonyms": [
+          "purchase",
+          "acquire",
+          "obtain",
+          "secure",
+          "get",
+          "procure",
+          "invest in"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To get something by paying money for it.",
+        "example": "They plan to buy a house in the countryside.",
+        "note": "When using \"buy,\" remember that it often requires an object, meaning you need to specify what you are buying. For example, you can say \"buy a car\" or \"buy groceries.\" In questions, you can ask \"What are you going to buy?\" to clarify what item is being purchased.",
+        "synonyms": [
+          "purchase",
+          "acquire",
+          "obtain",
+          "procure",
+          "secure",
+          "invest in",
+          "get",
+          "take",
+          "snag",
+          "grab"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To get something by paying money for it.",
+        "example": "Can you buy me a coffee on your way back?",
+        "note": "When using \"buy\" in a sentence, remember that it often requires an object (what you are buying) and sometimes a person (who you are buying it for). For example, in \"Can you buy me a coffee?\", \"me\" is the person receiving the coffee, and \"a coffee\" is what is being bought. Make sure to use the correct prepositions, like \"for\" when indicating who the item is for.",
+        "synonyms": [
+          "purchase",
+          "acquire",
+          "obtain",
+          "get",
+          "secure",
+          "procure",
+          "fetch"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bye",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "bye"
+    },
+    "wordFamily": [
+      "goodbye",
+      "farewell",
+      "adieu",
+      "parting",
+      "leave-taking",
+      "valediction"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "interjection",
+        "definition": "A friendly way to say goodbye when leaving someone or finishing a conversation.",
+        "example": "Bye! See you tomorrow!",
+        "note": "\"Bye\" is an informal way to say goodbye. It is often used when leaving someone or ending a conversation. You can use it with friends and family, but it's best to use more formal phrases like \"goodbye\" in professional settings. Remember to say it with a friendly tone!",
+        "synonyms": [
+          "bye bye-bye see you later take care later farewell so long adios ciao"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A short way of saying goodbye.",
+        "example": "He waved a quick bye before leaving.",
+        "note": "\"Bye\" is an informal way to say goodbye. It is often used in casual conversations and is suitable for friends and family. Remember to use it in friendly contexts, as it may not be appropriate in formal situations.",
+        "synonyms": [
+          "farewell",
+          "goodbye",
+          "adieu",
+          "parting",
+          "leave-taking"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cab",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "kab"
+    },
+    "wordFamily": [
+      "cabby",
+      "cabbie",
+      "cabaret",
+      "cabal",
+      "cabdriver",
+      "cabriolet"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A car that you can hire to take you somewhere, usually with a driver.",
+        "example": "I took a cab to the airport.",
+        "note": "A \"cab\" is a type of taxi that you can hire to take you to different places. In British English, \"cab\" is commonly used, but you might also hear \"taxi.\" When using the word in a sentence, remember that it is a countable noun, so you can say \"one cab\" or \"two cabs.\"",
+        "synonyms": [
+          "taxi",
+          "cabriolet",
+          "hack",
+          "limousine",
+          "ride"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "The part of a vehicle where the driver sits, often at the front, and where controls are located.",
+        "example": "The cab of the truck was spacious and comfortable.",
+        "note": "The word \"cab\" refers to the part of a vehicle where the driver sits. It is often used in the context of trucks or larger vehicles. When using \"cab,\" remember that it is a noun and can be used in both singular and plural forms (e.g., \"the cab\" or \"the cabs\"). In conversation, you might hear it used to describe comfort or features, such as \"The cab has air conditioning.\"",
+        "synonyms": [
+          "compartment",
+          "cockpit",
+          "driver's seat",
+          "cabin",
+          "enclosure"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To transport something by taxi or a similar vehicle.",
+        "example": "We need to cab the equipment to the event location.",
+        "note": "When using \"cab\" as a verb, it means to transport something by taxi or a similar vehicle. It is often used in informal contexts, especially when referring to moving items quickly or conveniently. Remember to specify what is being transported and where it is going for clarity. For example, \"We need to cab the equipment to the event location.\"",
+        "synonyms": [
+          "transport",
+          "convey",
+          "carry",
+          "deliver",
+          "shuttle",
+          "transfer"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "can",
+    "level": {
+      "rank": 2
+    },
+    "phonetics": {
+      "simplified": "kan"
+    },
+    "wordFamily": [
+      "able",
+      "capability",
+      "capacity",
+      "canny",
+      "canned",
+      "cannot",
+      "canister",
+      "candid",
+      "candidate"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "modal verb",
+        "definition": "Used to express ability or possibility, indicating that someone is able to do something.",
+        "example": "I can swim very well.",
+        "note": "\"Can\" is used to express ability or possibility. When you say \"I can swim,\" it means you have the skill to swim. Remember, \"can\" is followed by the base form of the verb (e.g., swim, eat, play). In questions, the structure changes: \"Can you swim?\" For negatives, use \"cannot\" or the contraction \"can't\": \"I cannot swim.\"",
+        "synonyms": [
+          "be able to",
+          "may",
+          "might",
+          "could"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A metal container used for storing drinks or food.",
+        "example": "Please recycle that can.",
+        "note": "A \"can\" is a container, usually made of metal, used for storing food or drinks. When you talk about a \"can,\" remember that it is a countable noun, so you can say \"one can,\" \"two cans,\" etc. In British English, the pronunciation is /kæn/, which rhymes with \"man.\"",
+        "synonyms": [
+          "container",
+          "tin",
+          "cylinder",
+          "receptacle",
+          "vessel"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To be able to do something or to have the permission to do something.",
+        "example": "Can you help me with this?",
+        "note": "\"Can\" is used to ask for permission or to request help. It is often followed by the base form of a verb (e.g., \"Can you help?\"). Remember that \"can\" is informal; for more polite requests, you might use \"could\" instead (e.g., \"Could you help me?\").",
+        "synonyms": [
+          "be able to",
+          "be capable of",
+          "manage to",
+          "know how to",
+          "have the ability to"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cap",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "kap"
+    },
+    "wordFamily": [
+      "capping",
+      "capped",
+      "capper",
+      "capstone",
+      "capsize",
+      "capillary",
+      "capacity",
+      "caption",
+      "encapsulate"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A soft hat with a curved peak, often worn for sports or casual occasions.",
+        "example": "He wore a baseball cap to shield his eyes from the sun.",
+        "note": "A cap is a type of hat that usually has a visor at the front. It is often worn for protection from the sun or for sports. In British English, \"cap\" can also refer to a specific type of headwear worn during formal occasions, like a graduation cap. When using the word in a sentence, remember that it is a countable noun, so you can say \"a cap\" or \"two caps.\"",
+        "synonyms": [
+          "hat",
+          "headgear",
+          "beanie",
+          "bonnet",
+          "lid",
+          "toque",
+          "visor",
+          "chapeau"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To put a cover on something, like a bottle, to close it and keep its contents inside.",
+        "example": "They decided to cap the bottle after pouring the last drink.",
+        "note": "When using \"cap\" as a verb, it often means to put a lid or cover on something. It can be used in both literal and figurative contexts. For example, you can \"cap\" a bottle, as in putting the lid back on, or \"cap\" a discussion, meaning to end it. Remember to use it in contexts where something is being covered or concluded.",
+        "synonyms": [
+          "seal",
+          "cover",
+          "close",
+          "top",
+          "lid",
+          "cork"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A cover or lid that fits on top of a bottle or container to keep its contents inside.",
+        "example": "The cap on the bottle was too tight to open.",
+        "note": "A \"cap\" is often used to refer to a cover or lid for a container, like a bottle. When using it in a sentence, remember that it can also refer to a type of hat. To avoid confusion, make sure the context makes it clear which meaning you intend. For example, \"I wore a cap to protect myself from the sun\" clearly refers to a hat, while \"The cap on the bottle was too tight to open\" refers to a lid.",
+        "synonyms": [
+          "lid",
+          "cover",
+          "top",
+          "stopper",
+          "plug",
+          "capper"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A limit on the amount or number of something.",
+        "example": "The company has a cap on the number of employees it can hire.",
+        "note": "A \"cap\" refers to a limit or maximum amount of something. In this context, it means the company has set a maximum number of employees it can hire. When using \"cap,\" remember it often describes restrictions or boundaries, such as in finance (like spending caps) or resources (like capacity caps).",
+        "synonyms": [
+          "limit",
+          "ceiling",
+          "restriction",
+          "maximum",
+          "boundary",
+          "constraint",
+          "threshold"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A limit on the amount or level of something, such as money or resources.",
+        "example": "She reached the cap of her savings goal this month.",
+        "note": "A \"cap\" refers to a limit or maximum amount that can be reached or allowed. It is often used in financial contexts, such as savings or budgets. When using \"cap,\" think about what limit you are discussing, and remember that it can also be used in other contexts, like a cap on the number of participants in an event.",
+        "synonyms": [
+          "limit",
+          "ceiling",
+          "maximum",
+          "threshold",
+          "upper bound",
+          "top",
+          "peak",
+          "boundary"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "car",
+    "level": {
+      "rank": 2
+    },
+    "phonetics": {
+      "simplified": "kar"
+    },
+    "wordFamily": [
+      "automobile",
+      "vehicle",
+      "transportation",
+      "drive",
+      "driver",
+      "automotive",
+      "carriage",
+      "cart",
+      "roadway",
+      "traffic"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A vehicle with four wheels that is used for driving.",
+        "example": "She drove her car to work every day.",
+        "note": "When using \"car,\" remember that it is a countable noun. This means you can say \"one car,\" \"two cars,\" etc. In British English, you might also hear \"motor\" or \"vehicle\" used in similar contexts, but \"car\" is the most common term for a personal automobile.",
+        "synonyms": [
+          "automobile",
+          "vehicle",
+          "motorcar",
+          "ride",
+          "wheels",
+          "machine",
+          "transport",
+          "conveyance"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cat",
+    "level": {
+      "rank": 2
+    },
+    "phonetics": {
+      "simplified": "kat"
+    },
+    "wordFamily": [
+      "kitten",
+      "feline",
+      "catlike",
+      "catnip",
+      "catty",
+      "catwalk",
+      "cataclysm",
+      "catapult",
+      "catalog",
+      "catastrophe"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A small, furry animal that is often kept as a pet. Cats have sharp claws, whiskers, and usually like to chase small animals like mice.",
+        "example": "The cat sat on the windowsill, watching the birds.",
+        "note": "When using \"cat\" in a sentence, remember that it is a singular noun. If you want to talk about more than one cat, you should use the plural form \"cats.\" For example, \"I saw two cats playing in the garden.\"",
+        "synonyms": [
+          "feline kitty tomcat kitten puss pussycats"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A small, furry animal that is often kept as a pet. Cats are known for their playful behavior and love of sleeping.",
+        "example": "He is the cat of the house, always getting the best spot on the sofa.",
+        "note": "When using \"cat\" in a sentence, remember that it can refer to both the animal and informally to a person, often in a playful or affectionate way. In the context of a person, it can imply someone who is cool or interesting. Make sure the context makes it clear which meaning you intend!",
+        "synonyms": [
+          "feline kitty tomcat moggy purrer furball"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To catch or trap a fish using a method similar to how a cat would.",
+        "example": "She decided to cat the fish before cooking it.",
+        "note": "When using \"cat\" as a verb, it means to catch or capture a fish, often in a playful or skillful manner. This usage is informal and may not be familiar to everyone, so it's best to use it in casual conversations or among friends who understand the term. Remember to use it in the correct tense, for example, \"I cat the fish\" (present) or \"I catched the fish\" (past, though \"caught\" is the correct past form).",
+        "synonyms": [
+          "empty"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cop",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "kahp"
+    },
+    "wordFamily": [
+      "coping",
+      "coped",
+      "copes",
+      "copious",
+      "copulation",
+      "copulatory",
+      "copter",
+      "copayment",
+      "copartner",
+      "coprocessor"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A police officer who helps keep people safe and enforces the law.",
+        "example": "The cop stopped the speeding car.",
+        "note": "In British English, \"cop\" is an informal term for a police officer. It is often used in casual conversation but may not be appropriate in formal situations. When using this word, be aware of your audience and the context to ensure it is suitable.",
+        "synonyms": [
+          "officer",
+          "policeman",
+          "police officer",
+          "constable",
+          "law enforcement",
+          "patrolman",
+          "detective",
+          "sheriff",
+          "trooper",
+          "marshal"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To take or obtain something, often in a casual or informal way.",
+        "example": "He decided to cop a new jacket from the store.",
+        "note": "This verb is informal and often used in British English to mean \"to obtain\" or \"to take.\" It is commonly used in casual conversations, especially among younger people. Be careful not to use it in formal writing or situations, as it may sound too casual or slangy.",
+        "synonyms": [
+          "acquire",
+          "obtain",
+          "get",
+          "grab",
+          "snag",
+          "score",
+          "take",
+          "secure"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cow",
+    "level": {
+      "rank": 3
+    },
+    "phonetics": {
+      "simplified": "kau"
+    },
+    "wordFamily": [
+      "cattle",
+      "bovine",
+      "cowherd",
+      "cowpoke",
+      "cowgirl",
+      "cowman",
+      "cowhand",
+      "milking",
+      "calf",
+      "heifer",
+      "steer",
+      "moo",
+      "udder"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A large farm animal that is often black and white, kept for its milk, meat, or leather.",
+        "example": "The farmer has a cow that produces milk.",
+        "note": "A cow is a large farm animal that is often kept for its milk, meat, or leather. In sentences, it is usually used as a singular noun (e.g., \"The cow is in the field.\") or can be made plural by adding an \"s\" (e.g., \"The cows are grazing.\"). Remember to use \"a\" before \"cow\" when talking about one, and \"the\" when referring to a specific cow.",
+        "synonyms": [
+          "bovine",
+          "heifer",
+          "steer",
+          "calf",
+          "cattle"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A large farm animal that is often black and white or brown, kept for milk or meat.",
+        "example": "In the field, we saw a herd of cows grazing.",
+        "note": "Cows are often used in farming for milk and meat. When talking about more than one cow, use \"cows.\" Remember to use \"a cow\" for one and \"cows\" for two or more. In sentences, you can say \"a cow is\" for one and \"cows are\" for many.",
+        "synonyms": [
+          "bovine",
+          "heifer",
+          "steer",
+          "calf",
+          "livestock"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make someone feel very afraid or frightened, so that they stop doing something or become quiet.",
+        "example": "He was cowed into silence by the loud argument.",
+        "note": "When using \"cowed\" as a verb, it means to make someone feel afraid or intimidated, often causing them to stop speaking or acting. It is usually used in a passive form, like \"was cowed,\" to show that someone was affected by fear. You can use it in contexts where someone feels overwhelmed or silenced by a strong presence or argument. Remember to use it in situations where fear or intimidation is involved.",
+        "synonyms": [
+          "intimidated frightened daunted subdued overawed disheartened"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cry",
+    "level": {
+      "rank": 4
+    },
+    "phonetics": {
+      "simplified": "krai"
+    },
+    "wordFamily": [
+      "cried",
+      "crying",
+      "cries",
+      "cryer",
+      "crybaby",
+      "cryogenic",
+      "cryotherapy"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make loud sounds with your voice, usually because you are sad, hurt, or in need of something.",
+        "example": "The baby began to cry when it was hungry.",
+        "note": "When using \"cry\" as a verb, remember that it can be followed by different objects. For example, you can say \"cry for help\" when someone needs assistance, or \"cry out\" to express a sudden loud sound. Also, note that \"cry\" can be used in different tenses: \"cried\" for the past and \"crying\" for the present continuous.",
+        "synonyms": [
+          "weep",
+          "wail",
+          "sob",
+          "howl",
+          "whimper",
+          "moan",
+          "lament",
+          "bawl",
+          "yowl",
+          "blubber"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To produce tears from your eyes, usually because you are feeling strong emotions like sadness, happiness, or pain.",
+        "example": "She cried tears of joy at the wedding.",
+        "note": "When using \"cried\" in a sentence, remember that it is the past tense of \"cry.\" You can use it to describe an action that happened in the past. For example, \"She cried at the movie last night.\" Also, \"cry\" can be used in different contexts, such as expressing sadness, joy, or even frustration. Make sure to use the correct form based on the time you are talking about.",
+        "synonyms": [
+          "wept sobbed wailed lamented howled shed tears blubbered"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A loud sound made when someone is in pain, needs help, or is expressing strong feelings.",
+        "example": "His cry for help was heard by a passerby.",
+        "note": "A \"cry\" can refer to a loud shout or call for help. It is often used in situations where someone is in distress or needs assistance. In sentences, it is usually followed by \"for\" when indicating what the person is calling out for, like \"cry for help.\" Remember to use it in contexts where someone is expressing strong emotions or needs urgent attention.",
+        "synonyms": [
+          "shout",
+          "call",
+          "plea",
+          "yell",
+          "scream",
+          "appeal",
+          "exclamation",
+          "outcry",
+          "wail",
+          "lament"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A loud sound made by a person or an animal, often expressing strong feelings like sadness, fear, or excitement.",
+        "example": "The loud cry of the bird woke me up in the morning.",
+        "note": "A \"cry\" can refer to a loud sound made by a person or animal. In sentences, it is often used to describe a specific noise, like a bird's call or a person's shout. Remember to use \"a\" or \"the\" before \"cry\" when talking about it, for example, \"a loud cry\" or \"the cry of the bird.\"",
+        "synonyms": [
+          "call",
+          "shout",
+          "scream",
+          "wail",
+          "howl",
+          "squawk",
+          "yelp",
+          "screech",
+          "chirp",
+          "peep"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cue",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "Sure! Please provide the word you'd like me to render phonetically."
+    },
+    "wordFamily": [
+      "cueing",
+      "cued",
+      "cueing",
+      "cueball",
+      "cue stick"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A signal or hint that tells someone when to do something.",
+        "example": "She took his nod as a cue to start speaking.",
+        "note": "A cue is a signal or prompt that helps someone know when to do something. In conversations, it can be a gesture, word, or action that indicates it’s time to speak or respond. Pay attention to cues in discussions, as they can guide the flow of communication.",
+        "synonyms": [
+          "signal indication prompt hint sign suggestion token"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To give a signal or prompt to someone to start doing something.",
+        "example": "The director will cue the actors when it's time to begin.",
+        "note": "When using \"cue\" as a verb, it often refers to giving a signal or prompt to someone to start or do something. In a performance context, it’s important to use it with a subject (who is giving the cue) and an object (who is receiving the cue). For example, \"The director cues the actors.\" Remember to pronounce it like \"kyoo\" (rhymes with \"few\").",
+        "synonyms": [
+          "signal",
+          "prompt",
+          "indicate",
+          "direct",
+          "instruct",
+          "guide",
+          "alert",
+          "notify"
+        ]
+      }
+    ]
+  }
+]

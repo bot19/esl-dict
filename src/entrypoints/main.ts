@@ -92,7 +92,7 @@ const getDefinition = async (ctx: Context, wordDescription: string) => {
 
 // new
 const getWordFamily = async (ctx: Context, word: string) => {
-  const schema = z.string().regex(/^[a-z\-, ]+$/i);
+  const schema = z.string().regex(/^[a-z\-,’' ]+$/i);
 
   const cefrLevelOptions: CcgptOptions = {
     ctx,
@@ -128,12 +128,12 @@ const getHelpfulNote = async (ctx: Context, wordDescription: string) => {
 };
 
 const getSynonyms = async (ctx: Context, wordDescription: string) => {
-  const schema = z.string().regex(/^[a-z\-, ]+$/i);
+  const schema = z.string().regex(/^[a-z\-,’' ]+$/i);
 
   const cefrLevelOptions: CcgptOptions = {
     ctx,
     maxTokens: 150,
-    prompt: `Give me a list of synonyms for the word ${wordDescription}. Respond with a comma separated list of words or empty if there are no synonyms.`,
+    prompt: `Give me a list of synonyms for the word ${wordDescription}. Respond with a comma separated list of words or empty if there are no synonyms. No punctuation.`,
     schema,
     plainText: true,
     model: "gpt-4o-mini",
