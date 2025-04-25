@@ -11,9 +11,9 @@ import { writeFileSync } from "fs";
 
 // controls
 const entryType = "test";
-const entryIdentifier = "repeated-senses";
-const entryNumber = 2;
-const words: string[] = ["and"];
+const entryIdentifier = "phonetic-simp-fail";
+const entryNumber = 3;
+const words: string[] = ["cue"];
 const noContent = {
   wordFamily: "no related words",
   synonyms: "no synonyms available",

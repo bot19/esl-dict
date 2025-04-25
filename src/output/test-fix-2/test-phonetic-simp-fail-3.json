@@ -1,0 +1,54 @@
+[
+  {
+    "word": "cue",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "kyoo"
+    },
+    "wordFamily": [
+      "cueing",
+      "cued",
+      "cueing",
+      "cue stick",
+      "cue ball",
+      "cue sheet"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A signal or hint that tells someone when to do something.",
+        "example": "She took his nod as a cue to start speaking.",
+        "note": "A cue is a signal or prompt that helps someone know when to do something. In conversations, it can be a gesture, word, or action that indicates it’s time to speak or respond. Pay attention to cues in discussions, as they can guide the flow of communication.",
+        "synonyms": [
+          "signal",
+          "prompt",
+          "indication",
+          "hint",
+          "sign",
+          "suggestion",
+          "reminder",
+          "trigger",
+          "clue"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To give a signal or prompt to someone to start doing something.",
+        "example": "The director cued the actors to begin their performance.",
+        "note": "When using \"cue\" as a verb, it often refers to giving a signal or prompt to someone to start an action. In a performance context, it’s important to ensure that the cue is clear so that everyone knows when to begin. Remember to use it in the correct tense depending on the situation: for example, \"cued\" for past actions and \"cues\" for present actions.",
+        "synonyms": [
+          "signal",
+          "prompt",
+          "indicate",
+          "instruct",
+          "direct",
+          "guide",
+          "notify",
+          "alert"
+        ]
+      }
+    ]
+  }
+]
