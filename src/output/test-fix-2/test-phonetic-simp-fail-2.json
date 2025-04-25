@@ -1,0 +1,142 @@
+[
+  {
+    "word": "beg",
+    "level": {
+      "rank": 4
+    },
+    "phonetics": {
+      "simplified": "beg"
+    },
+    "wordFamily": [
+      "beggar",
+      "begging",
+      "begged",
+      "beggary"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To ask someone very seriously and with strong feelings for something you need or want, often because you are in a difficult situation.",
+        "example": "She had to beg for help after losing her job.",
+        "note": "When using \"beg\" in a sentence, it often implies a sense of desperation or urgency. It can be followed by \"for\" when specifying what you are asking for, such as \"beg for help\" or \"beg for forgiveness.\" Remember to use it in contexts where someone is asking earnestly or pleading for something they need.",
+        "synonyms": [
+          "plead",
+          "implore",
+          "beseech",
+          "request",
+          "solicit",
+          "urge",
+          "entreat",
+          "petition",
+          "crave",
+          "ask"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To ask someone very seriously and with strong feelings for something you want or need.",
+        "example": "He begged his parents to let him go to the party.",
+        "note": "When using \"beg\" in a sentence, it is often followed by a person (the one being asked) and then the request. For example, you can say, \"She begged her friend to help her.\" Remember that \"beg\" expresses a strong desire or need, so it can convey a sense of urgency or desperation.",
+        "synonyms": [
+          "implore",
+          "beseech",
+          "plead",
+          "request",
+          "entreat",
+          "urge",
+          "solicit",
+          "petition",
+          "crave",
+          "ask"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To ask someone for something in a very serious or emotional way, often because you really need it.",
+        "example": "The dog looked up at me with begging eyes.",
+        "note": "When using \"beg\" in a sentence, it often describes asking for something in a very emotional or desperate way. You can use it with different subjects, like \"I beg you\" or \"She begged for help.\" Remember to use \"begging\" when talking about the action happening now, as in \"The dog is begging for food.\"",
+        "synonyms": [
+          "plead",
+          "implore",
+          "beseech",
+          "entreat",
+          "solicit",
+          "crave",
+          "request",
+          "urge",
+          "petition",
+          "ask"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "and",
+    "level": {
+      "rank": 1
+    },
+    "phonetics": {
+      "simplified": "and"
+    },
+    "wordFamily": [
+      "empty"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or sentences, showing that they are related or that both are included.",
+        "example": "I would like tea and biscuits.",
+        "note": "Use this word to connect two or more similar ideas, items, or actions in a sentence. For example, in \"I would like tea and biscuits,\" it shows that you want both tea and biscuits together. Remember, it helps to join things that are alike or related.",
+        "synonyms": [
+          "no synonyms available"
+        ]
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or clauses that are similar or related, showing that they happen together or in addition to each other.",
+        "example": "She is studying and working at the same time.",
+        "note": "Use this word to connect two similar ideas or actions in a sentence. It shows that both things are happening at the same time or are related. For example, in \"She is studying and working at the same time,\" it links studying and working together. Remember to use a comma before it when connecting two independent clauses, like in \"She is studying, and she is working.\"",
+        "synonyms": [
+          "no synonyms available"
+        ]
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or sentences that are similar or related, showing that they are added together.",
+        "example": "He plays football and basketball.",
+        "note": "Use this word to connect two similar ideas or items in a sentence. It helps to show that both things are true or happening at the same time. For example, in \"He plays football and basketball,\" it tells us that he plays both sports. Remember, when using it, make sure the items you are connecting are similar in nature.",
+        "synonyms": [
+          "no synonyms available"
+        ]
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or sentences that are similar or related, showing that both things are included or happening together.",
+        "example": "You can have cake and ice cream.",
+        "note": "Use \"and\" to connect two similar ideas or items in a sentence. It helps to show that both things are included. For example, in \"You can have cake and ice cream,\" it means you can have both cake and ice cream, not just one. Remember to use a comma before \"and\" when connecting two complete sentences, like in \"I like tea, and I like coffee.\"",
+        "synonyms": [
+          "also",
+          "plus",
+          "as well as",
+          "together with",
+          "along with",
+          "in addition to"
+        ]
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or sentences, showing that they are related or happen together.",
+        "example": "We went to the park and had a picnic.",
+        "note": "Use this word to connect two ideas or actions in a sentence. It shows that both parts are related and happen together. For example, in \"We went to the park and had a picnic,\" it tells us that both going to the park and having a picnic happened. Remember, it helps to make your sentences longer and more interesting!",
+        "synonyms": [
+          "also",
+          "plus",
+          "as well as",
+          "together with",
+          "along with",
+          "in addition to"
+        ]
+      }
+    ]
+  }
+]

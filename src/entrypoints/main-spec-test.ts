@@ -11,9 +11,9 @@ import { writeFileSync } from "fs";
 
 // controls
 const entryType = "test";
-const entryIdentifier = "synonym-array-fail";
-const entryNumber = 3;
-const words: string[] = ["bay"];
+const entryIdentifier = "phonetic-simp-fail";
+const entryNumber = 2;
+const words: string[] = ["beg", "and"];
 
 interface WordMeaning {
   examplePhrase: string;
@@ -142,21 +142,23 @@ const getSynonyms = async (ctx: Context, wordDescription: string) => {
 };
 
 // updated
-const getSimplifiedPhonetic = async (ctx: Context, wordDescription: string) => {
+const getSimplifiedPhonetic = async (ctx: Context, word: string) => {
   const schema = z.string();
 
   const cefrLevelOptions: CcgptOptions = {
     ctx,
     maxTokens: 20,
-    prompt: `For ${wordDescription}: give an easy, phonetic-style rendering that mimics how native English speakers might 'sound it out' using regular alphabet letters—especially useful for learners unfamiliar with IPA. Respond with only the phonetic word, no explanation.`,
+    prompt: `For the word "${word}": give an easy, phonetic-style rendering that mimics how native English speakers might 'sound it out' using (only) regular alphabet letters—especially useful for learners unfamiliar with IPA. Respond with only the phonetic word, no explanation.`,
     plainText: true,
     schema,
     model: "gpt-4o-mini",
   };
 
-  return schema.parse(
+  const result = schema.parse(
     await ccgpt("simplified-phonetic", cefrLevelOptions)
   ) as z.infer<typeof schema>;
+
+  return result;
 };
 
 const program = new Command();
