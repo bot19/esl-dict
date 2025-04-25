@@ -8,15 +8,12 @@ import * as schemas from "@/schemas";
 import { parseInt } from "lodash";
 import path from "path";
 import { writeFileSync } from "fs";
-import { wordsList } from "@/input/wordList";
 
 // controls
-const wordLength = 3;
-const wordsDone = ["dryer", "light", "break"];
-const words: string[] =
-  wordsList
-    .find((words) => words.wordLength === wordLength)
-    ?.words.slice(0, 50) || [];
+const entryType = "test";
+const entryIdentifier = "synonym-array-fail";
+const entryNumber = 3;
+const words: string[] = ["bay"];
 
 interface WordMeaning {
   examplePhrase: string;
@@ -212,18 +209,13 @@ program.action(async () => {
       results.push(schemas.entry.parse(entry));
     }
 
-    const filePath = path.join(__dirname, "..", `words-${wordLength}.json`);
+    const filePath = path.join(
+      __dirname,
+      "..",
+      `${entryType}-${entryIdentifier}-${entryNumber}.json`
+    );
     writeFileSync(filePath, JSON.stringify(results, null, 2));
   });
 });
 
 program.parse();
-
-/**
- * 01 - update with my testing words
- * 02 - need word definition, update instructions, cut fields
- * 03 - remove **Dryer (noun)**: A machine... from description
- * 04 - add wordFamily + helpful note for each word sense
- *
- * NOTE done. Time to mass produce.
- */

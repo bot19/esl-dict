@@ -1,0 +1,82 @@
+[
+  {
+    "word": "bay",
+    "level": {
+      "rank": 5
+    },
+    "phonetics": {
+      "simplified": "bay"
+    },
+    "wordFamily": [
+      "bayed",
+      "baying",
+      "bayou",
+      "bayleaf",
+      "bayonet"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A bay is a wide, curved area of water where the land curves inwards, often found along a coast or river.",
+        "example": "The dog barked at the bay of the river.",
+        "note": "When using \"bay\" to refer to a body of water, remember that it often describes a part of a river or a coastal area that is partly enclosed by land. In sentences, it can be helpful to specify what type of bay you are talking about, such as \"the bay of the river\" or \"the bay by the sea,\" to provide clarity.",
+        "synonyms": [
+          "inlet",
+          "estuary",
+          "cove",
+          "creek",
+          "lagoon",
+          "harbor",
+          "mouth",
+          "delta",
+          "arm",
+          "fjord"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A bay is a large area of water that is partly surrounded by land, often where boats can dock or where people can swim and relax.",
+        "example": "We watched the boats in the bay during our holiday.",
+        "note": "A \"bay\" is a body of water that is partly surrounded by land. When using \"bay\" in a sentence, remember that it often describes a calm area where boats can dock or where people can enjoy the scenery. You can use it in phrases like \"the bay is beautiful\" or \"we sailed across the bay.\"",
+        "synonyms": [
+          "inlet",
+          "cove",
+          "harbor",
+          "lagoon",
+          "estuary",
+          "fjord",
+          "creek",
+          "gulf",
+          "basin"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make a loud, deep sound, often like a howl, especially when calling out or expressing strong emotion.",
+        "example": "The wolves began to bay at the moon.",
+        "note": "When using \"bay\" as a verb, it often describes a loud, deep howl or bark, especially by dogs or wolves. It is commonly used in contexts involving animals expressing strong emotions, such as excitement or distress. Remember to use it in sentences where the subject is an animal, and it usually follows the pattern \"subject + bay + (at) + object\" (e.g., \"The dogs bayed at the intruder\").",
+        "synonyms": [
+          "howl",
+          "bark",
+          "yelp",
+          "wail",
+          "cry",
+          "ululate"
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A reddish-brown colour, often used to describe horses or clothing.",
+        "example": "She wore a beautiful bay dress to the party.",
+        "note": "When using \"bay\" to describe a colour, it typically refers to a reddish-brown shade, often associated with horses. In fashion, it can describe clothing in that colour. Remember to use it as an adjective before the noun, like \"bay dress\" or \"bay horse.\"",
+        "synonyms": [
+          "chestnut",
+          "auburn",
+          "mahogany",
+          "reddish-brown",
+          "brown"
+        ]
+      }
+    ]
+  }
+]
