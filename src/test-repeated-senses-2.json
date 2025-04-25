@@ -1,0 +1,48 @@
+[
+  {
+    "word": "and",
+    "level": {
+      "rank": 1
+    },
+    "phonetics": {
+      "simplified": "and"
+    },
+    "wordFamily": [
+      "no related words"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words or groups of words, showing that they are related or that both are included.",
+        "example": "I would like tea and coffee.",
+        "note": "Use \"and\" to connect two or more words, phrases, or sentences that are similar or related. For example, in \"I would like tea and coffee,\" it shows that you want both items. Remember to use a comma before \"and\" when connecting two independent clauses, like in \"I wanted to go for a walk, and it started to rain.\"",
+        "synonyms": [
+          "no synonyms available"
+        ]
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or sentences, showing that they are related or that one thing happens in addition to another.",
+        "example": "She studied hard and passed the exam.",
+        "note": "Use this word to connect two ideas or actions in a sentence. It shows that both parts are related or happen together. For example, in \"She studied hard and passed the exam,\" it links her studying with her success. Remember, it helps to create a smooth flow in your writing or speaking.",
+        "synonyms": [
+          "no synonyms available"
+        ]
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or sentences that are similar or related, showing that they are added together.",
+        "example": "You can have a sandwich and a salad.",
+        "note": "Use this word to connect two similar ideas or items in a sentence. It helps to show that both things are included or happening together. For example, in \"You can have a sandwich and a salad,\" it means you can have both the sandwich and the salad, not just one. Remember, it is often used to add information or to combine thoughts.",
+        "synonyms": [
+          "also",
+          "plus",
+          "as well as",
+          "together with",
+          "along with",
+          "in addition to"
+        ]
+      }
+    ]
+  }
+]

@@ -11,9 +11,13 @@ import { writeFileSync } from "fs";
 
 // controls
 const entryType = "test";
-const entryIdentifier = "phonetic-simp-fail";
+const entryIdentifier = "repeated-senses";
 const entryNumber = 2;
-const words: string[] = ["beg", "and"];
+const words: string[] = ["and"];
+const noContent = {
+  wordFamily: "no related words",
+  synonyms: "no synonyms available",
+};
 
 interface WordMeaning {
   examplePhrase: string;
@@ -57,7 +61,7 @@ const getMeanings = async (ctx: Context, word: string) => {
   const cefrLevelOptions: CcgptOptions = {
     ctx,
     maxTokens: 500,
-    prompt: `Give me a list of common meanings for the word ${word} as you would find in an English-UK ESL dictionary. Use a short example phrase that disambiguates each entry. Only include very common, straightforward usages of the word. Omit less common slangs and such. 1 entry for each meaning of the word. Be conservative, a single entry is fine.`,
+    prompt: `Give me a concise list of the core meanings for the word "${word}" as you would find in an English-UK ESL dictionary. Limit it to only the most common, clearly distinct meanings. Do not repeat similar uses or closely related senses. Use just one entry per true meaning, and avoid breaking it into multiple slight variations. Include one short, disambiguating example phrase per entry. Avoid slang, idioms, or edge cases. Be conservative: if a word has only one main use, return only that.`,
     schema,
     model: "gpt-4o-mini",
   };
@@ -94,7 +98,7 @@ const getWordFamily = async (ctx: Context, word: string) => {
   const cefrLevelOptions: CcgptOptions = {
     ctx,
     maxTokens: 150,
-    prompt: `for the word: ${word}; provide an optional list of related words or forms (Word Families or Derivatives). Don't include the word itself (${word}). Respond with a comma separated list of words or empty if there are no related words.`,
+    prompt: `for the word: ${word}; provide an optional list of related words or forms (Word Families or Derivatives). Don't include the word itself (${word}). Respond with a comma separated list of words or if there are no related words: ${noContent.wordFamily}`,
     schema,
     plainText: true,
     model: "gpt-4o-mini",
@@ -131,7 +135,7 @@ const getSynonyms = async (ctx: Context, wordDescription: string) => {
   const cefrLevelOptions: CcgptOptions = {
     ctx,
     maxTokens: 150,
-    prompt: `Give me a list of synonyms for the word ${wordDescription}. Respond with a comma separated list of those synonyms or if there are no synonyms: no synonyms available. Avoid punctuation (don't want phrases) except for the comma to separate the synonyms.`,
+    prompt: `Give me a list of synonyms for the word ${wordDescription}. Respond with a comma separated list of those synonyms or if there are no synonyms: "${noContent.synonyms}" (no quotes). Avoid punctuation (don't want phrases) except for the comma to separate the synonyms.`,
     schema,
     plainText: true,
     model: "gpt-4o-mini",
