@@ -22,3 +22,6 @@ Create a ESL dictionary using an alternative granular approach to target \*-mini
 ## 📝 Notes
 
 - building on top of [felixsebastian](https://github.com/felixsebastian/esl-dict)'s work. Thx.
+- altered output to get desired data
+- fix bugs = output optimal
+- further work in [AI-essential-English-dictionary](https://github.com/bot19/AI-essential-English-dictionary) (ie: mass production + further fixes)
