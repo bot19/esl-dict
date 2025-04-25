@@ -1,0 +1,63 @@
+[
+  {
+    "word": "and",
+    "level": {
+      "rank": 1
+    },
+    "phonetics": {
+      "simplified": "and"
+    },
+    "wordFamily": ["empty"],
+    "meanings": [
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or sentences, showing that they are related or that both are included.",
+        "example": "I would like tea and biscuits.",
+        "note": "Use this word to connect two or more similar ideas, items, or actions in a sentence. For example, in \"I would like tea and biscuits,\" it shows that you want both tea and biscuits together. Remember, it helps to join things that are alike or related.",
+        "synonyms": ["no synonyms available"]
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or clauses that are similar or related, showing that they happen together or in addition to each other.",
+        "example": "She is studying and working at the same time.",
+        "note": "Use this word to connect two similar ideas or actions in a sentence. It shows that both things are happening at the same time or are related. For example, in \"She is studying and working at the same time,\" it links studying and working together. Remember to use a comma before it when connecting two independent clauses, like in \"She is studying, and she is working.\"",
+        "synonyms": ["no synonyms available"]
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or sentences that are similar or related, showing that they are added together.",
+        "example": "He plays football and basketball.",
+        "note": "Use this word to connect two similar ideas or items in a sentence. It helps to show that both things are true or happening at the same time. For example, in \"He plays football and basketball,\" it tells us that he plays both sports. Remember, when using it, make sure the items you are connecting are similar in nature.",
+        "synonyms": ["no synonyms available"]
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or sentences that are similar or related, showing that both things are included or happening together.",
+        "example": "You can have cake and ice cream.",
+        "note": "Use \"and\" to connect two similar ideas or items in a sentence. It helps to show that both things are included. For example, in \"You can have cake and ice cream,\" it means you can have both cake and ice cream, not just one. Remember to use a comma before \"and\" when connecting two complete sentences, like in \"I like tea, and I like coffee.\"",
+        "synonyms": [
+          "also",
+          "plus",
+          "as well as",
+          "together with",
+          "along with",
+          "in addition to"
+        ]
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definition": "Used to connect words, phrases, or sentences, showing that they are related or happen together.",
+        "example": "We went to the park and had a picnic.",
+        "note": "Use this word to connect two ideas or actions in a sentence. It shows that both parts are related and happen together. For example, in \"We went to the park and had a picnic,\" it tells us that both going to the park and having a picnic happened. Remember, it helps to make your sentences longer and more interesting!",
+        "synonyms": [
+          "also",
+          "plus",
+          "as well as",
+          "together with",
+          "along with",
+          "in addition to"
+        ]
+      }
+    ]
+  }
+]
